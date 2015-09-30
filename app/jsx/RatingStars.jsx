@@ -1,6 +1,10 @@
 var React = require('react');
 
 class RatingStars extends React.Component {
+  propTypes: {
+    score: React.PropTypes.number.isRequired,
+    max: React.PropTypes.number.isRequired
+  }
 
   render() {
     var filled = Math.floor(this.props.score);
@@ -11,27 +15,34 @@ class RatingStars extends React.Component {
 
     for (var i = 0; i < filled; i++) {
       stars.push(
-        <i className="fa fa-star" />
+        <i className="fa fa-star"/>
       );
     }
     if (hasHalf) {
       empty--;
       stars.push(
-        <i className="fa fa-star-half-o" />
+        <i className="fa fa-star-half-o"/>
       );
     }
     for (var i = 0; i < empty; i++) {
       stars.push(
-        <i className="fa fa-star-o" />
+        <i className="fa fa-star-o"/>
       );
     }
     return (
       <div className="rating-stars">
-        {stars.map( (el) => el )}
+        {stars.map( (el) => el)}
       </div>
     );
   }
-
 }
-
+// Can have optional and required properties, even enforces types
+RatingStars.propTypes = {
+    score: React.PropTypes.number.isRequired,
+    max: React.PropTypes.number.isRequired
+  };
+// Or set default property values
+RatingStars.defaultProps = { 
+  max: 5
+};
 module.exports = RatingStars;

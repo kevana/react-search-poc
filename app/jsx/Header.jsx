@@ -50,12 +50,12 @@ class Header extends React.Component {
     return (
       <header className="app-header">
         <div className="app-header__inner">
-          <h1 className="app-header__title">Fluentflix</h1>
+          <h1 className="app-header__title">Search Results</h1>
           <select value={this.props.layout} onChange={this.handleLayoutEvent.bind(this)} className="app-header__display-select">
             <option value="tile">Tile</option>
             <option value="list">List</option>
           </select>
-          {searchBox}
+          {/* searchBox */}
         </div>
       </header>
     );

@@ -1,10 +1,11 @@
 var React = require('react');
-var omdb = require('omdb-client');
-// var omdb = require('./fake-omdb-client');
-var MovieContainer = require('./MovieContainer');
-var MovieTileLayout = require('./MovieTileLayout');
-var MovieListLayout = require('./MovieListLayout');
+//var omdb = require('omdb-client');
+//var omdb = require('./fake-omdb-client');
+var ItemContainer = require('./ItemContainer');
+var ItemTileLayout = require('./ItemTileLayout');
+var ItemListLayout = require('./ItemListLayout');
 var preload = require('./netflix');
+var productResponse = require('./products')
 var Header = require('./Header');
 var _ = require('lodash');
 
@@ -15,7 +16,7 @@ class App extends React.Component {
 
     this.state = {
       layout: 'list',
-      results: _.clone(preload.Search, true),
+      results: _.clone(productResponse.products, true),
       term: ""
     };
   }
@@ -25,23 +26,25 @@ class App extends React.Component {
   }
 
   search(term) {
-    this.setState({term:term});
-    omdb.search({query:term}, (err, data) => {
-      this.setState({results: data.Search});
-    });
+    // this.setState({term:term});
+    // omdb.search({query:term}, (err, data) => {
+    //   this.setState({results: data.Search});
+    // });
+    console.log('unimplemented');
   }
 
   clearTerm() {
-    this.setState({term:"", results: _.clone(preload.Search, true)});
+    console.log('unimplemented');
+    //this.setState({term:"", results: _.clone(preload.Search, true)});
   }
 
   render() {
     var layout;
     if (this.state.layout === 'tile') {
-      layout = MovieTileLayout;
+      layout = ItemTileLayout;
     }
     else {
-      layout = MovieListLayout;
+      layout = ItemListLayout;
     }
     return (
       <div className="app-container">
@@ -53,12 +56,13 @@ class App extends React.Component {
           clearTerm={this.clearTerm.bind(this)}
         />
         <div className="movies-list">
-          {this.state.results.map((el) => {
+          {this.state.results.map((el, idx) => {
             return (
-              <MovieContainer
-                id={el.imdbID}
-                key={el.imdbID}
+              <ItemContainer
+                id={idx}
+                key={idx}
                 layout={layout}
+                product={el}
               />
             );
           })}

@@ -1,0 +1,3078 @@
+{
+	"metadata": {
+		"resultsFound": 441,
+		"startIndex": 1,
+		"noofResultsPerPage": 24,
+		"request": {
+			"requestUrl": "http://api.fingerhut.com/v1/products/jsonp?core=fht&q=Keyword%3Aapple&start=0&userId=NONE&format=JSON&rows=24&pg=0",
+			"params": [{
+				"name": "pg",
+				"value": "0"
+			}, {
+				"name": "start",
+				"value": "0"
+			}, {
+				"name": "q",
+				"value": "Keyword:apple"
+			}, {
+				"name": "userId",
+				"value": "NONE"
+			}, {
+				"name": "core",
+				"value": "fht"
+			}, {
+				"name": "format",
+				"value": "JSON"
+			}, {
+				"name": "rows",
+				"value": "24"
+			}]
+		},
+		"facets": {
+			"facet": [{
+				"displayName": "Brand",
+				"field": "attr-__General__Brand",
+				"value": [{
+					"displayName": "Apple",
+					"name": "Apple",
+					"count": 33
+				}, {
+					"displayName": "Baggallini",
+					"name": "Baggallini",
+					"count": 17
+				}, {
+					"displayName": "Beats by dr. dre",
+					"name": "Beats by dr. dre",
+					"count": 2
+				}, {
+					"displayName": "BergHOFF",
+					"name": "BergHOFF",
+					"count": 2
+				}, {
+					"displayName": "Bungalow",
+					"name": "Bungalow",
+					"count": 1
+				}, {
+					"displayName": "Camp Chef",
+					"name": "Camp Chef",
+					"count": 1
+				}, {
+					"displayName": "Candle Warmers Etc.",
+					"name": "Candle Warmers Etc.",
+					"count": 1
+				}, {
+					"displayName": "Class Act",
+					"name": "Class Act",
+					"count": 1
+				}, {
+					"displayName": "CorLiving",
+					"name": "CorLiving",
+					"count": 1
+				}, {
+					"displayName": "DASH",
+					"name": "DASH",
+					"count": 1
+				}, {
+					"displayName": "Demeter",
+					"name": "Demeter",
+					"count": 9
+				}, {
+					"displayName": "Eurographics",
+					"name": "Eurographics",
+					"count": 1
+				}, {
+					"displayName": "Figi's",
+					"name": "Figi's",
+					"count": 2
+				}, {
+					"displayName": "Keurig",
+					"name": "Keurig",
+					"count": 1
+				}, {
+					"displayName": "KitchenAid",
+					"name": "KitchenAid",
+					"count": 4
+				}, {
+					"displayName": "Levi's",
+					"name": "Levi's",
+					"count": 1
+				}, {
+					"displayName": "Loloi Rugs",
+					"name": "Loloi Rugs",
+					"count": 20
+				}, {
+					"displayName": "Mattel",
+					"name": "Mattel",
+					"count": 7
+				}, {
+					"displayName": "McLeland Design",
+					"name": "McLeland Design",
+					"count": 3
+				}, {
+					"displayName": "Mr. Beer",
+					"name": "Mr. Beer",
+					"count": 1
+				}, {
+					"displayName": "Nesco",
+					"name": "Nesco",
+					"count": 1
+				}, {
+					"displayName": "Non Branded",
+					"name": "Non Branded",
+					"count": 13
+				}, {
+					"displayName": "Progressive",
+					"name": "Progressive",
+					"count": 1
+				}, {
+					"displayName": "Rachael Ray",
+					"name": "Rachael Ray",
+					"count": 2
+				}, {
+					"displayName": "Reflection Beads",
+					"name": "Reflection Beads",
+					"count": 1
+				}, {
+					"displayName": "Rizzy Home",
+					"name": "Rizzy Home",
+					"count": 1
+				}, {
+					"displayName": "Savannah's Candy Kitchen",
+					"name": "Savannah's Candy Kitchen",
+					"count": 1
+				}, {
+					"displayName": "Southern Enterprises",
+					"name": "Southern Enterprises",
+					"count": 1
+				}, {
+					"displayName": "Trademark Fine Art",
+					"name": "Trademark Fine Art",
+					"count": 280
+				}, {
+					"displayName": "Vickerman",
+					"name": "Vickerman",
+					"count": 2
+				}, {
+					"displayName": "Yamaha",
+					"name": "Yamaha",
+					"count": 1
+				}, {
+					"displayName": "roocase",
+					"name": "roocase",
+					"count": 2
+				}]
+			}, {
+				"displayName": "Rating",
+				"field": "NormalizedAverageReview",
+				"value": [{
+					"displayName": "5.0",
+					"name": "5.0",
+					"count": 6
+				}, {
+					"displayName": "4.5",
+					"name": "4.5",
+					"count": 4
+				}, {
+					"displayName": "4.0",
+					"name": "4.0",
+					"count": 1
+				}, {
+					"displayName": "3.5",
+					"name": "3.5",
+					"count": 1
+				}, {
+					"displayName": "3.0",
+					"name": "3.0",
+					"count": 2
+				}, {
+					"displayName": "2.5",
+					"name": "2.5",
+					"count": 1
+				}, {
+					"displayName": "0.0",
+					"name": "0.0",
+					"count": 426
+				}]
+			}, {
+				"displayName": "Price",
+				"field": "Price-sort",
+				"value": [{
+					"displayName": "Price-sort:[10 TO 20}",
+					"name": "Price-sort:[10 TO 20}",
+					"count": 5
+				}, {
+					"displayName": "Price-sort:[20 TO 30}",
+					"name": "Price-sort:[20 TO 30}",
+					"count": 20
+				}, {
+					"displayName": "Price-sort:[30 TO 40}",
+					"name": "Price-sort:[30 TO 40}",
+					"count": 12
+				}, {
+					"displayName": "Price-sort:[40 TO 50}",
+					"name": "Price-sort:[40 TO 50}",
+					"count": 7
+				}, {
+					"displayName": "Price-sort:[50 TO 100}",
+					"name": "Price-sort:[50 TO 100}",
+					"count": 244
+				}, {
+					"displayName": "Price-sort:[100 TO 150}",
+					"name": "Price-sort:[100 TO 150}",
+					"count": 40
+				}, {
+					"displayName": "Price-sort:[150 TO 200}",
+					"name": "Price-sort:[150 TO 200}",
+					"count": 38
+				}, {
+					"displayName": "Price-sort:[200 TO 300}",
+					"name": "Price-sort:[200 TO 300}",
+					"count": 4
+				}, {
+					"displayName": "Price-sort:[300 TO 400}",
+					"name": "Price-sort:[300 TO 400}",
+					"count": 12
+				}, {
+					"displayName": "Price-sort:[400 TO 500}",
+					"name": "Price-sort:[400 TO 500}",
+					"count": 5
+				}, {
+					"displayName": "Price-sort:[500 TO 600}",
+					"name": "Price-sort:[500 TO 600}",
+					"count": 9
+				}, {
+					"displayName": "Price-sort:[600 TO 700}",
+					"name": "Price-sort:[600 TO 700}",
+					"count": 4
+				}, {
+					"displayName": "Price-sort:[700 TO 800}",
+					"name": "Price-sort:[700 TO 800}",
+					"count": 7
+				}, {
+					"displayName": "Price-sort:[800 TO 900}",
+					"name": "Price-sort:[800 TO 900}",
+					"count": 2
+				}, {
+					"displayName": "Price-sort:[900 TO 1000}",
+					"name": "Price-sort:[900 TO 1000}",
+					"count": 12
+				}, {
+					"displayName": "Price-sort:[1000 TO 2000}",
+					"name": "Price-sort:[1000 TO 2000}",
+					"count": 20
+				}]
+			}, {
+				"displayName": "Price Per Month",
+				"field": "PricePerMonth-sort",
+				"value": [{
+					"displayName": "PricePerMonth-sort:[0 TO 10}",
+					"name": "PricePerMonth-sort:[0 TO 10}",
+					"count": 173
+				}, {
+					"displayName": "PricePerMonth-sort:[10 TO 20}",
+					"name": "PricePerMonth-sort:[10 TO 20}",
+					"count": 193
+				}, {
+					"displayName": "PricePerMonth-sort:[20 TO 30}",
+					"name": "PricePerMonth-sort:[20 TO 30}",
+					"count": 18
+				}, {
+					"displayName": "PricePerMonth-sort:[30 TO 40}",
+					"name": "PricePerMonth-sort:[30 TO 40}",
+					"count": 4
+				}, {
+					"displayName": "PricePerMonth-sort:[40 TO 50}",
+					"name": "PricePerMonth-sort:[40 TO 50}",
+					"count": 16
+				}, {
+					"displayName": "PricePerMonth-sort:[50 TO 100}",
+					"name": "PricePerMonth-sort:[50 TO 100}",
+					"count": 37
+				}]
+			}, {
+				"displayName": "Category-L1",
+				"field": "category-L1",
+				"value": [{
+					"displayName": "Furniture + Décor",
+					"name": "Furniture + Décor",
+					"count": 293,
+					"id": 8003
+				}, {
+					"displayName": "Electronics",
+					"name": "Electronics",
+					"count": 65,
+					"id": 4
+				}, {
+					"displayName": "Home",
+					"name": "Home",
+					"count": 28,
+					"id": 5695
+				}, {
+					"displayName": "Featured Shops",
+					"name": "Featured Shops",
+					"count": 19,
+					"id": 10954
+				}, {
+					"displayName": "Apparel",
+					"name": "Apparel",
+					"count": 18,
+					"id": 1
+				}, {
+					"displayName": "Kitchen",
+					"name": "Kitchen",
+					"count": 14,
+					"id": 10
+				}, {
+					"displayName": "Campus Essentials",
+					"name": "Campus Essentials",
+					"count": 14,
+					"id": 9331
+				}, {
+					"displayName": "Toys",
+					"name": "Toys",
+					"count": 9,
+					"id": 9
+				}, {
+					"displayName": "Health + Beauty",
+					"name": "Health + Beauty",
+					"count": 7,
+					"id": 6
+				}, {
+					"displayName": "Bed + Bath",
+					"name": "Bed + Bath",
+					"count": 3,
+					"id": 7986
+				}, {
+					"displayName": "Gifts, Crafts + Holidays",
+					"name": "Gifts, Crafts + Holidays",
+					"count": 3,
+					"id": 10964
+				}, {
+					"displayName": "Jewelry + Watches",
+					"name": "Jewelry + Watches",
+					"count": 2,
+					"id": 8
+				}]
+			}, {
+				"displayName": "Category-L2",
+				"field": "category-L2",
+				"value": [{
+					"displayName": "Home Décor",
+					"name": "Home Décor",
+					"count": 292,
+					"id": 7
+				}, {
+					"displayName": "Cell Phones",
+					"name": "Cell Phones",
+					"count": 31,
+					"id": 703
+				}, {
+					"displayName": "Computers + Tablets",
+					"name": "Computers + Tablets",
+					"count": 23,
+					"id": 45
+				}, {
+					"displayName": "Rugs",
+					"name": "Rugs",
+					"count": 21,
+					"id": 4903
+				}, {
+					"displayName": "Gift Finder",
+					"name": "Gift Finder",
+					"count": 16,
+					"id": 4993
+				}, {
+					"displayName": "Handbags",
+					"name": "Handbags",
+					"count": 14,
+					"id": 2126
+				}, {
+					"displayName": "iPod + MP3 Players",
+					"name": "iPod + MP3 Players",
+					"count": 7,
+					"id": 1326
+				}, {
+					"displayName": "Brands",
+					"name": "Brands",
+					"count": 7,
+					"id": 3640
+				}, {
+					"displayName": "Fragrances",
+					"name": "Fragrances",
+					"count": 6,
+					"id": 58
+				}, {
+					"displayName": "Games + Puzzles",
+					"name": "Games + Puzzles",
+					"count": 6,
+					"id": 815
+				}, {
+					"displayName": "Food Prep + Gadgets",
+					"name": "Food Prep + Gadgets",
+					"count": 6,
+					"id": 2491
+				}, {
+					"displayName": "Kitchen Appliances",
+					"name": "Kitchen Appliances",
+					"count": 5,
+					"id": 954
+				}, {
+					"displayName": "Electronics Value Bundles",
+					"name": "Electronics Value Bundles",
+					"count": 5,
+					"id": 9329
+				}, {
+					"displayName": "8-Tweens",
+					"name": "8-Tweens",
+					"count": 4,
+					"id": 488
+				}, {
+					"displayName": "Bedding",
+					"name": "Bedding",
+					"count": 3,
+					"id": 3
+				}, {
+					"displayName": "Luggage",
+					"name": "Luggage",
+					"count": 3,
+					"id": 12
+				}, {
+					"displayName": "Dolls",
+					"name": "Dolls",
+					"count": 3,
+					"id": 460
+				}, {
+					"displayName": "Girls",
+					"name": "Girls",
+					"count": 3,
+					"id": 2199
+				}, {
+					"displayName": "McLeland Design",
+					"name": "McLeland Design",
+					"count": 3,
+					"id": 3927
+				}, {
+					"displayName": "Food Gifts + Baskets",
+					"name": "Food Gifts + Baskets",
+					"count": 3,
+					"id": 7884
+				}, {
+					"displayName": "College Bed + Bath",
+					"name": "College Bed + Bath",
+					"count": 3,
+					"id": 9324
+				}, {
+					"displayName": "Patio + Garden",
+					"name": "Patio + Garden",
+					"count": 2,
+					"id": 5
+				}, {
+					"displayName": "Home Theater + Audio",
+					"name": "Home Theater + Audio",
+					"count": 2,
+					"id": 41
+				}, {
+					"displayName": "Movies + TV Shows",
+					"name": "Movies + TV Shows",
+					"count": 2,
+					"id": 618
+				}, {
+					"displayName": "Window Treatments",
+					"name": "Window Treatments",
+					"count": 2,
+					"id": 4904
+				}, {
+					"displayName": "Dining + Entertaining",
+					"name": "Dining + Entertaining",
+					"count": 2,
+					"id": 5690
+				}, {
+					"displayName": "Holiday Décor",
+					"name": "Holiday Décor",
+					"count": 2,
+					"id": 7917
+				}, {
+					"displayName": "Jewelry Collections",
+					"name": "Jewelry Collections",
+					"count": 2,
+					"id": 7927
+				}, {
+					"displayName": "Fine Jewelry",
+					"name": "Fine Jewelry",
+					"count": 2,
+					"id": 8364
+				}, {
+					"displayName": "College Headphones + Audio",
+					"name": "College Headphones + Audio",
+					"count": 2,
+					"id": 9328
+				}, {
+					"displayName": "College Computers + Tablets",
+					"name": "College Computers + Tablets",
+					"count": 2,
+					"id": 9332
+				}, {
+					"displayName": "Men's Clothing",
+					"name": "Men's Clothing",
+					"count": 1,
+					"id": 18
+				}, {
+					"displayName": "Musical Instruments + Karaoke",
+					"name": "Musical Instruments + Karaoke",
+					"count": 1,
+					"id": 47
+				}, {
+					"displayName": "TVs",
+					"name": "TVs",
+					"count": 1,
+					"id": 50
+				}, {
+					"displayName": "Furniture",
+					"name": "Furniture",
+					"count": 1,
+					"id": 64
+				}, {
+					"displayName": "Coffee, Tea + Espresso",
+					"name": "Coffee, Tea + Espresso",
+					"count": 1,
+					"id": 285
+				}, {
+					"displayName": "Cookware",
+					"name": "Cookware",
+					"count": 1,
+					"id": 370
+				}, {
+					"displayName": "Characters + Themes",
+					"name": "Characters + Themes",
+					"count": 1,
+					"id": 470
+				}, {
+					"displayName": "5-7 Years",
+					"name": "5-7 Years",
+					"count": 1,
+					"id": 487
+				}, {
+					"displayName": "Arts, Crafts + Sewing",
+					"name": "Arts, Crafts + Sewing",
+					"count": 1,
+					"id": 2068
+				}, {
+					"displayName": "Necklaces + Pendants",
+					"name": "Necklaces + Pendants",
+					"count": 1,
+					"id": 2093
+				}, {
+					"displayName": "Bath + Body",
+					"name": "Bath + Body",
+					"count": 1,
+					"id": 7782
+				}, {
+					"displayName": "College TVs + Video Games",
+					"name": "College TVs + Video Games",
+					"count": 1,
+					"id": 9327
+				}, {
+					"displayName": "College Kitchen + Dining",
+					"name": "College Kitchen + Dining",
+					"count": 1,
+					"id": 9330
+				}]
+			}, {
+				"displayName": "Category-L3",
+				"field": "category-L3",
+				"value": [{
+					"displayName": "Wall Art",
+					"name": "Wall Art",
+					"count": 285,
+					"id": 5636
+				}, {
+					"displayName": "No-Contract Phones",
+					"name": "No-Contract Phones",
+					"count": 22,
+					"id": 8757
+				}, {
+					"displayName": "Area Rugs",
+					"name": "Area Rugs",
+					"count": 20,
+					"id": 223
+				}, {
+					"displayName": "iPads + Tablets",
+					"name": "iPads + Tablets",
+					"count": 15,
+					"id": 6103
+				}, {
+					"displayName": "Crossbody Bags",
+					"name": "Crossbody Bags",
+					"count": 10,
+					"id": 7903
+				}, {
+					"displayName": "Mattel",
+					"name": "Mattel",
+					"count": 7,
+					"id": 3642
+				}, {
+					"displayName": "Unlocked Phones",
+					"name": "Unlocked Phones",
+					"count": 7,
+					"id": 7727
+				}, {
+					"displayName": "Women's Fragrances",
+					"name": "Women's Fragrances",
+					"count": 6,
+					"id": 347
+				}, {
+					"displayName": "Techie",
+					"name": "Techie",
+					"count": 6,
+					"id": 5013
+				}, {
+					"displayName": "iPods",
+					"name": "iPods",
+					"count": 5,
+					"id": 1337
+				}, {
+					"displayName": "Card Games",
+					"name": "Card Games",
+					"count": 5,
+					"id": 10223
+				}, {
+					"displayName": "Mixers",
+					"name": "Mixers",
+					"count": 4,
+					"id": 291
+				}, {
+					"displayName": "Desktop + All-in-One Computers",
+					"name": "Desktop + All-in-One Computers",
+					"count": 4,
+					"id": 2365
+				}, {
+					"displayName": "Totes",
+					"name": "Totes",
+					"count": 4,
+					"id": 7910
+				}, {
+					"displayName": "Men's Fragrances",
+					"name": "Men's Fragrances",
+					"count": 3,
+					"id": 344
+				}, {
+					"displayName": "Candles + Candleholders",
+					"name": "Candles + Candleholders",
+					"count": 3,
+					"id": 2135
+				}, {
+					"displayName": "Laptops",
+					"name": "Laptops",
+					"count": 3,
+					"id": 2392
+				}, {
+					"displayName": "Bedding",
+					"name": "Bedding",
+					"count": 3,
+					"id": 3929
+				}, {
+					"displayName": "Him",
+					"name": "Him",
+					"count": 3,
+					"id": 4994
+				}, {
+					"displayName": "Her",
+					"name": "Her",
+					"count": 3,
+					"id": 4995
+				}, {
+					"displayName": "Teen",
+					"name": "Teen",
+					"count": 3,
+					"id": 4997
+				}, {
+					"displayName": "Gadget Sets + Utensils",
+					"name": "Gadget Sets + Utensils",
+					"count": 3,
+					"id": 7880
+				}, {
+					"displayName": "Fashion Dolls",
+					"name": "Fashion Dolls",
+					"count": 3,
+					"id": 8183
+				}, {
+					"displayName": "Decorative Accents",
+					"name": "Decorative Accents",
+					"count": 2,
+					"id": 212
+				}, {
+					"displayName": "Graters + Slicers",
+					"name": "Graters + Slicers",
+					"count": 2,
+					"id": 905
+				}, {
+					"displayName": "Headphones",
+					"name": "Headphones",
+					"count": 2,
+					"id": 1099
+				}, {
+					"displayName": "Accessories",
+					"name": "Accessories",
+					"count": 2,
+					"id": 2046
+				}, {
+					"displayName": "Dinnerware",
+					"name": "Dinnerware",
+					"count": 2,
+					"id": 2456
+				}, {
+					"displayName": "Teachers + Caregivers",
+					"name": "Teachers + Caregivers",
+					"count": 2,
+					"id": 4999
+				}, {
+					"displayName": "Housewarming",
+					"name": "Housewarming",
+					"count": 2,
+					"id": 5003
+				}, {
+					"displayName": "Graduation",
+					"name": "Graduation",
+					"count": 2,
+					"id": 5004
+				}, {
+					"displayName": "Gourmet Food + Gifts",
+					"name": "Gourmet Food + Gifts",
+					"count": 2,
+					"id": 5011
+				}, {
+					"displayName": "Beads + Charms",
+					"name": "Beads + Charms",
+					"count": 2,
+					"id": 5490
+				}, {
+					"displayName": "Decorative Pillows",
+					"name": "Decorative Pillows",
+					"count": 2,
+					"id": 5879
+				}, {
+					"displayName": "Outdoor Decorations",
+					"name": "Outdoor Decorations",
+					"count": 2,
+					"id": 7387
+				}, {
+					"displayName": "Headphones",
+					"name": "Headphones",
+					"count": 2,
+					"id": 7849
+				}, {
+					"displayName": "Decorative Pillows",
+					"name": "Decorative Pillows",
+					"count": 2,
+					"id": 8299
+				}, {
+					"displayName": "Fine Bracelets",
+					"name": "Fine Bracelets",
+					"count": 2,
+					"id": 8384
+				}, {
+					"displayName": "Fine Silver",
+					"name": "Fine Silver",
+					"count": 2,
+					"id": 8389
+				}, {
+					"displayName": "Movies",
+					"name": "Movies",
+					"count": 2,
+					"id": 8458
+				}, {
+					"displayName": "Phone Cases",
+					"name": "Phone Cases",
+					"count": 2,
+					"id": 8756
+				}, {
+					"displayName": "Guitars + Stringed Instruments",
+					"name": "Guitars + Stringed Instruments",
+					"count": 1,
+					"id": 162
+				}, {
+					"displayName": "Patio Furniture",
+					"name": "Patio Furniture",
+					"count": 1,
+					"id": 180
+				}, {
+					"displayName": "Living Room",
+					"name": "Living Room",
+					"count": 1,
+					"id": 206
+				}, {
+					"displayName": "Drapes + Panels",
+					"name": "Drapes + Panels",
+					"count": 1,
+					"id": 231
+				}, {
+					"displayName": "Slow Cookers + Roasters",
+					"name": "Slow Cookers + Roasters",
+					"count": 1,
+					"id": 293
+				}, {
+					"displayName": "Grills + Outdoor Cooking",
+					"name": "Grills + Outdoor Cooking",
+					"count": 1,
+					"id": 385
+				}, {
+					"displayName": "Luggage Separates",
+					"name": "Luggage Separates",
+					"count": 1,
+					"id": 2071
+				}, {
+					"displayName": "Pressure Cookers + Canners",
+					"name": "Pressure Cookers + Canners",
+					"count": 1,
+					"id": 2361
+				}, {
+					"displayName": "Door Mats",
+					"name": "Door Mats",
+					"count": 1,
+					"id": 2600
+				}, {
+					"displayName": "Cutting Boards",
+					"name": "Cutting Boards",
+					"count": 1,
+					"id": 3694
+				}, {
+					"displayName": "Sterling Silver",
+					"name": "Sterling Silver",
+					"count": 1,
+					"id": 3757
+				}, {
+					"displayName": "Accessories",
+					"name": "Accessories",
+					"count": 1,
+					"id": 3879
+				}, {
+					"displayName": "Wedding",
+					"name": "Wedding",
+					"count": 1,
+					"id": 5002
+				}, {
+					"displayName": "Valances",
+					"name": "Valances",
+					"count": 1,
+					"id": 5405
+				}, {
+					"displayName": "Bakery",
+					"name": "Bakery",
+					"count": 1,
+					"id": 7890
+				}, {
+					"displayName": "Meat + Cheese",
+					"name": "Meat + Cheese",
+					"count": 1,
+					"id": 7891
+				}, {
+					"displayName": "Single Serve Coffee + Tea Packs",
+					"name": "Single Serve Coffee + Tea Packs",
+					"count": 1,
+					"id": 7985
+				}, {
+					"displayName": "Sweet + Salty Snacks",
+					"name": "Sweet + Salty Snacks",
+					"count": 1,
+					"id": 7991
+				}, {
+					"displayName": "Disney",
+					"name": "Disney",
+					"count": 1,
+					"id": 8177
+				}, {
+					"displayName": "Puzzles",
+					"name": "Puzzles",
+					"count": 1,
+					"id": 8273
+				}, {
+					"displayName": "Fine Gemstones + Pearls",
+					"name": "Fine Gemstones + Pearls",
+					"count": 1,
+					"id": 8387
+				}, {
+					"displayName": "Quilts + Bedspreads",
+					"name": "Quilts + Bedspreads",
+					"count": 1,
+					"id": 8503
+				}, {
+					"displayName": "Fire Pits + Patio Heaters",
+					"name": "Fire Pits + Patio Heaters",
+					"count": 1,
+					"id": 8581
+				}, {
+					"displayName": "Streaming Media Players",
+					"name": "Streaming Media Players",
+					"count": 1,
+					"id": 8612
+				}, {
+					"displayName": "Ever After High",
+					"name": "Ever After High",
+					"count": 1,
+					"id": 9885
+				}, {
+					"displayName": "Underwear",
+					"name": "Underwear",
+					"count": 1,
+					"id": 10157
+				}, {
+					"displayName": "Scrapbooking + Stamping",
+					"name": "Scrapbooking + Stamping",
+					"count": 1,
+					"id": 10844
+				}]
+			}, {
+				"displayName": "Category-L4",
+				"field": "category-L4",
+				"value": [{
+					"displayName": "Framed Art",
+					"name": "Framed Art",
+					"count": 146,
+					"id": 3676
+				}, {
+					"displayName": "Canvas Art",
+					"name": "Canvas Art",
+					"count": 139,
+					"id": 3935
+				}, {
+					"displayName": "iPads",
+					"name": "iPads",
+					"count": 14,
+					"id": 7852
+				}, {
+					"displayName": "Tablets",
+					"name": "Tablets",
+					"count": 6,
+					"id": 7851
+				}, {
+					"displayName": "Techie Gifts",
+					"name": "Techie Gifts",
+					"count": 3,
+					"id": 8378
+				}, {
+					"displayName": "Techie Gifts",
+					"name": "Techie Gifts",
+					"count": 2,
+					"id": 8370
+				}, {
+					"displayName": "Chairs + Loungers",
+					"name": "Chairs + Loungers",
+					"count": 1,
+					"id": 2328
+				}, {
+					"displayName": "Accent Chairs",
+					"name": "Accent Chairs",
+					"count": 1,
+					"id": 2489
+				}, {
+					"displayName": "Coffee + Tea",
+					"name": "Coffee + Tea",
+					"count": 1,
+					"id": 5086
+				}, {
+					"displayName": "Sweet + Salty Snacks",
+					"name": "Sweet + Salty Snacks",
+					"count": 1,
+					"id": 5091
+				}, {
+					"displayName": "Domestic Goddess",
+					"name": "Domestic Goddess",
+					"count": 1,
+					"id": 8367
+				}, {
+					"displayName": "Stands, Keyboards + Stylus",
+					"name": "Stands, Keyboards + Stylus",
+					"count": 1,
+					"id": 8610
+				}, {
+					"displayName": "Grill Tools + Accessories",
+					"name": "Grill Tools + Accessories",
+					"count": 1,
+					"id": 8682
+				}, {
+					"displayName": "Stamps + Ink Pads",
+					"name": "Stamps + Ink Pads",
+					"count": 1,
+					"id": 10856
+				}]
+			}]
+		},
+		"machineName": "schprod109"
+	},
+	"products": [{
+		"score": 3.744026,
+		"productID": "SS548",
+		"productType": "Product",
+		"name": "Apple Wireless Keyboard",
+		"description": "<ul><li>Apple wireless keyboard with built-in Bluetooth has 30-ft. range</li><li>Compact design takes up 24% less space on your desktop than full-size keyboard</li><li>Low-profile anodized aluminum enclosure with crisp, responsive keys</li><li>Function keys for 1-touch access to Mac features such as screen brightness, volume, eject, play/pause, Mission Control and Launchpad</li><li>Intelligent power management system conserves battery life</li><li>Uses 2 AA batteries</li></ul>",
+		"productURL": "/product/SS548.uts",
+		"shipCode": "A",
+		"images": [{
+			"sequence": 1,
+			"url": "4SS5480000010_VA_999.jpg"
+		}],
+		"displayImage": {
+			"sequence": 1,
+			"url": "4SS5480000010_VA_999.jpg"
+		},
+		"categories": [{
+			"name": "Stands, Keyboards + Stylus",
+			"categoryID": "8610",
+			"path": "Electronics|Computers + Tablets|iPads + Tablets|Stands, Keyboards + Stylus"
+		}],
+		"categoryIDs": [8610, 6103, 45, 4],
+		"rating": 0,
+		"attributes": [{
+			"name": "Color(s)",
+			"field": "attr-__General__LNav_Colors",
+			"values": ["White", "Silver"]
+		}, {
+			"name": "Color Family",
+			"field": "attr-__General__LNavColorCategory",
+			"values": ["White", "Silver"]
+		}, {
+			"name": "Compatibility",
+			"field": "attr-__Electronics__Compatibility",
+			"values": ["iPad; Bluetooth-enabled Mac computer"]
+		}, {
+			"name": "MFR Included Warranty Type",
+			"field": "attr-__Electronics__ManufacturerWarranty",
+			"values": ["1 Year Limited Warranty"]
+		}, {
+			"name": "Brand",
+			"field": "attr-__General__Brand",
+			"values": ["Apple"]
+		}, {
+			"name": "Manufacturer Color Name",
+			"field": "attr-__General__ManufacturerColorName",
+			"values": ["Anodized aluminum, White"]
+		}, {
+			"name": "Model #",
+			"field": "attr-__General__Model#",
+			"values": ["MC184LL/B"]
+		}],
+		"price": 99.99,
+		"pricePerMonth": 10.99,
+		"MoreOptionsAvailable": false,
+		"skus": [{
+			"id": "4SS5480000010",
+			"color": "000",
+			"size": "0010",
+			"inventoryStatus": "Available",
+			"mpn": "MC184LL/B",
+			"upc": "00885909324330"
+		}],
+		"IsDropship": true,
+		"IsTruckship": false,
+		"IsBackorderEligible": true,
+		"IsClearance": false,
+		"siteFirstActive": 1422252000000
+	}, {
+		"score": 3.743967,
+		"productID": "SS547",
+		"productType": "Product",
+		"name": "Apple Magic Mouse",
+		"description": "<ul><li>Laser technology delivers 20 times the performance of standard optical tracking</li><li>Miniature sensors detect even the slightest movement</li><li>Bluetooth wireless technology</li><li>Touch sensitive</li></ul>",
+		"productURL": "/product/SS547.uts",
+		"shipCode": "E",
+		"images": [{
+			"sequence": 1,
+			"url": "4SS5470000010_VA_999.jpg"
+		}],
+		"displayImage": {
+			"sequence": 1,
+			"url": "4SS5470000010_VA_999.jpg"
+		},
+		"categories": [{
+			"name": "Accessories",
+			"categoryID": "3879",
+			"path": "Electronics|Computers + Tablets|Accessories"
+		}],
+		"categoryIDs": [3879, 45, 4],
+		"rating": 0,
+		"attributes": [{
+			"name": "Color(s)",
+			"field": "attr-__General__LNav_Colors",
+			"values": ["White"]
+		}, {
+			"name": "Color Family",
+			"field": "attr-__General__LNavColorCategory",
+			"values": ["White"]
+		}, {
+			"name": "Compatibility",
+			"field": "attr-__Electronics__Compatibility",
+			"values": ["Bluetooth-enables Macintosh Computer"]
+		}, {
+			"name": "MFR Included Warranty Type",
+			"field": "attr-__Electronics__ManufacturerWarranty",
+			"values": ["1 Year Limited Warranty"]
+		}, {
+			"name": "Brand",
+			"field": "attr-__General__Brand",
+			"values": ["Apple"]
+		}, {
+			"name": "Manufacturer Color Name",
+			"field": "attr-__General__ManufacturerColorName",
+			"values": ["White"]
+		}, {
+			"name": "Model #",
+			"field": "attr-__General__Model#",
+			"values": ["MB829LL/A"]
+		}],
+		"price": 99.99,
+		"pricePerMonth": 10.99,
+		"MoreOptionsAvailable": false,
+		"skus": [{
+			"id": "4SS5470000010",
+			"color": "000",
+			"size": "0010",
+			"inventoryStatus": "Available",
+			"mpn": "MB829LL/A",
+			"upc": "00885909270354"
+		}],
+		"IsDropship": true,
+		"IsTruckship": false,
+		"IsBackorderEligible": true,
+		"IsClearance": false,
+		"siteFirstActive": 1422252000000
+	}, {
+		"score": 3.0006173,
+		"productID": "QF969",
+		"productType": "Product",
+		"name": "Apple TV 1080p Streaming Player",
+		"description": "<p>This compact Apple TV 1080p streaming player with built-in Wi-Fi lets you play subscription content from iTunes, Netflix, Hulu Plus, YouTube and your favorite sports leagues on your HDTV.&nbsp; It also streams music, videos, movies and photos from your Mac, PC and Apple devices.</p> <ul><li>Easily connects to your HDTV and Wi-Fi network (compatible with most HDTVs); also has 10/100 Base-T Ethernet port for wired connection to internet</li><li>Enjoy viewing in vibrant Full HD (1080p) resolution</li><li>AirPlay lets you wirelessly stream content from your iPhone, iPad and iPod touch to your HDTV &ndash; it can even mirror exactly what&rsquo;s on your display to the big screen</li><li>iCloud stores your photos and pushes them wirelessly to all your compatible devices</li><li>Powered by Apple A5 processor</li><li>Great connectivity options with HDMI port (cable not included), IR receiver,&nbsp;micro USB port, Ethernet and optical audio</li><li>Includes power cord and Apple Remote</li><li>Approx. 4\"W x 4\"D x 1\"H</li><li>Limited warranty</li></ul>",
+		"productURL": "/product/QF969.uts",
+		"shipCode": "G",
+		"promotionalCopy": "SAVE $36",
+		"savingsStory": "WAS $149.99",
+		"images": [{
+			"sequence": 1,
+			"url": "4QF9690000010_VA_999.jpg"
+		}, {
+			"sequence": 2,
+			"url": "4QF9690000010_VC_999.jpg"
+		}, {
+			"sequence": 3,
+			"url": "4QF9690000010_VB_999.jpg"
+		}, {
+			"sequence": 4,
+			"url": "4QF9690000010_VD_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4QF9690000010_VE_999.jpg"
+		}],
+		"displayImage": {
+			"sequence": 1,
+			"url": "4QF9690000010_VA_999.jpg"
+		},
+		"categories": [{
+			"name": "College TVs + Video Games",
+			"categoryID": "9327",
+			"path": "Campus Essentials|College TVs + Video Games"
+		}, {
+			"name": "Techie",
+			"categoryID": "5013",
+			"path": "Featured Shops|Gift Finder|Techie"
+		}, {
+			"name": "Streaming Media Players",
+			"categoryID": "8612",
+			"path": "Electronics|TVs|Streaming Media Players"
+		}],
+		"categoryIDs": [9327, 9331, 5013, 4993, 10954, 8612, 50, 4],
+		"rating": 0,
+		"attributes": [{
+			"name": "QA CPSC Certification Documents",
+			"field": "attr-__General__QACPSCCertificationDocuments",
+			"values": ["False"]
+		}, {
+			"name": "QA: Is a Prop 65 Warning Required?",
+			"field": "attr-__Electronics__QAProp65Warning",
+			"values": ["N/A"]
+		}, {
+			"name": "Compatibility",
+			"field": "attr-__Electronics__Compatibility",
+			"values": ["iTunes"]
+		}, {
+			"name": "MFR Included Warranty Type",
+			"field": "attr-__Electronics__ManufacturerWarranty",
+			"values": ["1 year limited parts and labor"]
+		}, {
+			"name": "QA: Does this product require an MSDS Report?",
+			"field": "attr-__Electronics__QAMSDS",
+			"values": ["N/A"]
+		}, {
+			"name": "QA: Product packaging has been tested to meet, or exceed, Fingerhuts packaging standards?",
+			"field": "attr-__Electronics__QAPackagingStandard",
+			"values": ["YES"]
+		}, {
+			"name": "Manufacturer Color Name",
+			"field": "attr-__General__ManufacturerColorName",
+			"values": ["Black"]
+		}, {
+			"name": "TV Accessory Type",
+			"field": "attr-__Electronics__ElectronicsAccessoryType",
+			"values": ["Smart Set Top Boxes"]
+		}, {
+			"name": "QA: Product uses a Ni-Cd or SSLA battery, meets EPA and Battery Act Labeling requirements?",
+			"field": "attr-__Electronics__QAEPABatteryAct",
+			"values": ["N/A"]
+		}, {
+			"name": "Model #",
+			"field": "attr-__General__Model#",
+			"values": ["MD199LL/A"]
+		}, {
+			"name": "QA: UL, ETL, CSA or ARL Tested/Listed?",
+			"field": "attr-__Electronics__QAULETLCSAARL",
+			"values": ["N/A"]
+		}, {
+			"name": "QA: Independent Lab Test Report",
+			"field": "attr-__Electronics__QAIndependentLabTestReport",
+			"values": ["NO"]
+		}, {
+			"name": "Brand",
+			"field": "attr-__General__Brand",
+			"values": ["Apple"]
+		}],
+		"price": 113.99,
+		"pricePerMonth": 14.99,
+		"MoreOptionsAvailable": false,
+		"skus": [{
+			"id": "4QF9690000010",
+			"color": "000",
+			"size": "0010",
+			"inventoryStatus": "Available",
+			"mpn": "APPLE MD199LL/A"
+		}],
+		"IsDropship": true,
+		"IsTruckship": false,
+		"IsBackorderEligible": true,
+		"IsClearance": false,
+		"siteFirstActive": 1370754000000
+	}, {
+		"score": 3.0003254,
+		"productID": "NCUIJ",
+		"productType": "Product",
+		"name": "Apple iPod Nano - 16GB",
+		"description": "<ul><li>Apple iPod nano with anodized aluminum design is ultraportable and just plain fun</li><li>About the size of a credit card, it lets you enjoy your favorite music, FM radio, photos and videos anywhere</li><li>With its easy-to-use controls, you can give the iPod nano a shake to shuffle to a different song in your music library, tap Genius to find songs that go great together, tap LivePause to pause FM radio without missing a minute, and more</li><li>2.5\" widescreen multi-touch display</li><li>16GB internal flash memory</li><li>Bluetooth 4.0</li><li>Built-in pedometer and Nike+ support for fitness</li><li>USB 2.0 port</li><li>Headphone jack</li><li>Rechargeable lithium-ion battery provides up to 30 hours of audio playback or 3.5 hours of video playback on a single charge</li><li>Includes Apple EarPods headphones and Lightning to USB cable</li><li>Approx. 1-1/2\"W x 1/5\"D x 3\"H; weighs 1.1 oz.</li></ul>",
+		"productURL": "/product/NCUIJ.uts",
+		"shipCode": "E",
+		"images": [{
+			"sequence": 1,
+			"url": "4NCUIJBLU0010_VA_999.jpg"
+		}, {
+			"sequence": 1,
+			"url": "4NCUIJMSL0010_VA_999.jpg"
+		}, {
+			"sequence": 1,
+			"url": "4NCUIJNGR0010_VA_999.jpg"
+		}, {
+			"sequence": 1,
+			"url": "4NCUIJRPK0010_VA_999.jpg"
+		}, {
+			"sequence": 1,
+			"url": "4NCUIJYGO0010_VA_999.jpg"
+		}],
+		"displayImage": {
+			"sequence": 1,
+			"url": "4NCUIJBLU0010_VA_999.jpg"
+		},
+		"categories": [{
+			"name": "iPods",
+			"categoryID": "1337",
+			"path": "Electronics|iPod + MP3 Players|iPods"
+		}],
+		"categoryIDs": [1337, 1326, 4],
+		"rating": 0,
+		"attributes": [{
+			"name": "Color(s)",
+			"field": "attr-__General__LNav_Colors",
+			"values": ["Silver", "Gray", "Pink", "Blue", "Yellow", "Gold"]
+		}, {
+			"name": "Built-In Speaker",
+			"field": "attr-__Electronics__BuiltInSpeaker",
+			"values": ["No"]
+		}, {
+			"name": "Lithium Hazard Warning",
+			"field": "attr-__General__LithiumHazardWarning",
+			"values": ["Lithium Ion Packed With or Contained In"]
+		}, {
+			"name": "USB Port",
+			"field": "attr-__Electronics__USBPort",
+			"values": ["No"]
+		}, {
+			"name": "Additional Accessories Included",
+			"field": "attr-__Electronics__AdditionalAccessoriesIncluded",
+			"values": ["Apple Earpods®, lightning to USB cable, quick start guide"]
+		}, {
+			"name": "iPod Storage Capacity",
+			"field": "attr-__Electronics__iPodStorageCapacity",
+			"values": ["16GB"]
+		}, {
+			"name": "Cable(s) Included",
+			"field": "attr-__Electronics__CableIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Computer Compatibility",
+			"field": "attr-__Electronics__ComputerCompatibility",
+			"values": ["PC and Mac"]
+		}, {
+			"name": "Supported File Formats",
+			"field": "attr-__Electronics__SupportedFileFormats",
+			"values": ["AAC"]
+		}, {
+			"name": "Inputs",
+			"field": "attr-__Electronics__Inputs",
+			"values": ["Audio"]
+		}, {
+			"name": "Touchscreen",
+			"field": "attr-__Electronics__TouchScreen",
+			"values": ["Yes"]
+		}, {
+			"name": "Storage Type",
+			"field": "attr-__Electronics__StorageType",
+			"values": ["Flash Memory"]
+		}, {
+			"name": "Software Included",
+			"field": "attr-__Electronics__SoftwareIncluded",
+			"values": ["No"]
+		}, {
+			"name": "Battery Quantity",
+			"field": "attr-__Electronics__BatteryQuantity",
+			"values": ["1"]
+		}, {
+			"name": "Product Width (in.)",
+			"field": "attr-__Electronics__ProductWidthin",
+			"values": ["1.56"]
+		}, {
+			"name": "Video Playback",
+			"field": "attr-__Electronics__VideoPlayback",
+			"values": ["Yes"]
+		}, {
+			"name": "Integrated Speaker",
+			"field": "attr-__Electronics__IntegratedSpeaker",
+			"values": ["Yes"]
+		}, {
+			"name": "FM Tuner",
+			"field": "attr-__Electronics__FMTuner",
+			"values": ["Yes"]
+		}, {
+			"name": "Tablet Screen Size (in.)",
+			"field": "attr-__Electronics__LNavTabletScreenSize",
+			"values": ["2.5"]
+		}, {
+			"name": "Headphones Included",
+			"field": "attr-__Electronics__HeadphonesIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Product Weight (lb.)",
+			"field": "attr-__Electronics__ProductWeightlb",
+			"values": [".068"]
+		}, {
+			"name": "MFR Included Warranty Type",
+			"field": "attr-__Electronics__ManufacturerWarranty",
+			"values": ["Limited - Does not cover some parts."]
+		}, {
+			"name": "Belt Clip Included",
+			"field": "attr-__Electronics__BeltClipIncluded",
+			"values": ["No"]
+		}, {
+			"name": "Generation",
+			"field": "attr-__Electronics__Generation",
+			"values": ["7th"]
+		}, {
+			"name": "iPod Model Type",
+			"field": "attr-__Electronics__iPodModelType",
+			"values": ["Nano"]
+		}, {
+			"name": "Removable Memory Type",
+			"field": "attr-__Electronics__RemovableMemoryType",
+			"values": ["NO"]
+		}, {
+			"name": "Manufacturer Color Name",
+			"field": "attr-__General__ManufacturerColorName",
+			"values": ["SPACE GRAY"]
+		}, {
+			"name": "Product Depth (in.)",
+			"field": "attr-__Electronics__ProductDepthin",
+			"values": [".21"]
+		}, {
+			"name": "Model #",
+			"field": "attr-__General__Model#",
+			"values": ["MKMV2LLA"]
+		}, {
+			"name": "Removable Memory Storage Capacity",
+			"field": "attr-__Electronics__RemovableMemoryStorageCapacity",
+			"values": ["NO"]
+		}, {
+			"name": "Integrated Camera",
+			"field": "attr-__Electronics__IntegratedCamera",
+			"values": ["None"]
+		}, {
+			"name": "MP3 Player Storage Capacity",
+			"field": "attr-__Electronics__MP3PlayerStorageCapacity",
+			"values": ["16GB"]
+		}, {
+			"name": "Product Height (in.)",
+			"field": "attr-__Electronics__ProductHeightin",
+			"values": ["3.01"]
+		}, {
+			"name": "Brand",
+			"field": "attr-__General__Brand",
+			"values": ["Apple"]
+		}, {
+			"name": "Battery Size",
+			"field": "attr-__Electronics__BatterySize",
+			"values": ["Other"]
+		}, {
+			"name": "Batteries Included",
+			"field": "attr-__Electronics__BatteriesIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Tuner Type",
+			"field": "attr-__Electronics__TunerType",
+			"values": ["FM Tuner"]
+		}, {
+			"name": "Screen Size (in.)",
+			"field": "attr-__Electronics__ScreenSizein",
+			"values": ["2.5"]
+		}, {
+			"name": "Display Type",
+			"field": "attr-__Electronics__DisplayType",
+			"values": ["Color"]
+		}],
+		"price": 194.99,
+		"pricePerMonth": 17.99,
+		"MoreOptionsAvailable": true,
+		"skus": [{
+			"id": "4NCUIJMSL0010",
+			"color": "MSL",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCUIJMSL0010_Swatch",
+				"description": "SILVER",
+				"image": "4NCUIJMSL0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKN22LLA",
+			"upc": "00888462471121"
+		}, {
+			"id": "4NCUIJNGR0010",
+			"color": "NGR",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCUIJNGR0010_Swatch",
+				"description": "SPACE GRAY",
+				"image": "4NCUIJNGR0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKN52LLA",
+			"upc": "00888462471756"
+		}, {
+			"id": "4NCUIJRPK0010",
+			"color": "RPK",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCUIJRPK0010_Swatch",
+				"description": "PINK",
+				"image": "4NCUIJRPK0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKMV2LLA",
+			"upc": "00888462469234"
+		}, {
+			"id": "4NCUIJYGO0010",
+			"color": "YGO",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCUIJYGO0010_Swatch",
+				"description": "GOLD",
+				"image": "4NCUIJYGO0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKMX2LLA",
+			"upc": "00888462469869"
+		}, {
+			"id": "4NCUIJBLU0010",
+			"color": "BLU",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCUIJBLU0010_Swatch",
+				"description": "BLUE",
+				"image": "4NCUIJBLU0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKN02LLA",
+			"upc": "00888462470490"
+		}],
+		"IsDropship": false,
+		"IsTruckship": false,
+		"IsBackorderEligible": true,
+		"IsClearance": false,
+		"siteFirstActive": 1441954016297
+	}, {
+		"score": 2.8646135,
+		"productID": "NCPLU",
+		"productType": "Product",
+		"name": "Apple iPod touch 6th Generation 16GB",
+		"description": "<ul><li>6th&nbsp;generation Apple iPod touch features GPU performance up to 10x faster and CPU performance up to 6x faster than the previous-generation iPod touch</li><li>4\" widescreen Retina touch screen display</li><li>Apple iOS 8 operating system</li><li>Apple A8 chip with M8 motion coprocessor</li><li>Metal technology lets the CPU and GPU work together for detailed graphics and complex visual effects</li><li>16GB flash memory</li><li>Built-in Wi-Fi and Bluetooth 4.1</li><li>8 megapixel iSight camera plus FaceTime HD camera</li><li>Full HD (1080p) video recording</li><li>Equipped with speaker and headphone jack</li><li>Built-in apps like Messsages, FaceTime and Safari plus access to the App Store</li><li>Includes rechargeable lithium-ion battery (up to 40 hours audio playback on a single charge), Apple EarPods headphones and Lightning to USB cable</li><li>Approx. 2-1/4\"W x 1/4\"D x 5\"H; weighs 3.1 oz.</li></ul>",
+		"productURL": "/product/NCPLU.uts",
+		"shipCode": "E",
+		"swatches": [{
+			"sequence": 10,
+			"name": "4NCPLUBLU0010_Swatch",
+			"description": "Blue",
+			"image": "4NCPLUBLU0010_VB_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLUMSL0010_Swatch",
+			"description": "Silver",
+			"image": "4NCPLUMSL0010_VB_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLUNGR0010_Swatch",
+			"description": "Space Gray",
+			"image": "4NCPLUNGR0010_VA_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLURPK0010_Swatch",
+			"description": "Pink",
+			"image": "4NCPLURPK0010_VB_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLUYGO0010_Swatch",
+			"description": "Gold",
+			"image": "4NCPLUYGO0010_VB_999"
+		}],
+		"images": [{
+			"sequence": 1,
+			"url": "4NCPLUNGR0010_VA_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4NCPLUBLU0010_VB_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4NCPLUMSL0010_VB_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4NCPLURPK0010_VB_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4NCPLUYGO0010_VB_999.jpg"
+		}],
+		"displayImage": {
+			"sequence": 1,
+			"url": "4NCPLUNGR0010_VA_999.jpg"
+		},
+		"categories": [{
+			"name": "iPods",
+			"categoryID": "1337",
+			"path": "Electronics|iPod + MP3 Players|iPods"
+		}],
+		"categoryIDs": [1337, 1326, 4],
+		"rating": 0,
+		"attributes": [{
+			"name": "Color Family",
+			"field": "attr-__General__LNavColorCategory",
+			"values": ["Yellow", "Gold", "Silver", "Gray", "Pink", "Blue"]
+		}, {
+			"name": "Color(s)",
+			"field": "attr-__General__LNav_Colors",
+			"values": ["Yellow", "Gold", "Silver", "Gray", "Pink", "Blue"]
+		}, {
+			"name": "Built-In Speaker",
+			"field": "attr-__Electronics__BuiltInSpeaker",
+			"values": ["Yes"]
+		}, {
+			"name": "Lithium Hazard Warning",
+			"field": "attr-__General__LithiumHazardWarning",
+			"values": ["Lithium Ion Packed With or Contained In"]
+		}, {
+			"name": "USB Port",
+			"field": "attr-__Electronics__USBPort",
+			"values": ["No"]
+		}, {
+			"name": "Additional Accessories Included",
+			"field": "attr-__Electronics__AdditionalAccessoriesIncluded",
+			"values": ["Apple Earpods®, lightning to USB cable, quick start guide"]
+		}, {
+			"name": "iPod Storage Capacity",
+			"field": "attr-__Electronics__iPodStorageCapacity",
+			"values": ["16GB"]
+		}, {
+			"name": "Cable(s) Included",
+			"field": "attr-__Electronics__CableIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Computer Compatibility",
+			"field": "attr-__Electronics__ComputerCompatibility",
+			"values": ["PC and Mac"]
+		}, {
+			"name": "Supported File Formats",
+			"field": "attr-__Electronics__SupportedFileFormats",
+			"values": ["AAC"]
+		}, {
+			"name": "Inputs",
+			"field": "attr-__Electronics__Inputs",
+			"values": ["3.5mm jack"]
+		}, {
+			"name": "Touchscreen",
+			"field": "attr-__Electronics__TouchScreen",
+			"values": ["Yes"]
+		}, {
+			"name": "Storage Type",
+			"field": "attr-__Electronics__StorageType",
+			"values": ["Flash Memory"]
+		}, {
+			"name": "Software Included",
+			"field": "attr-__Electronics__SoftwareIncluded",
+			"values": ["No"]
+		}, {
+			"name": "Battery Quantity",
+			"field": "attr-__Electronics__BatteryQuantity",
+			"values": ["1"]
+		}, {
+			"name": "Product Width (in.)",
+			"field": "attr-__Electronics__ProductWidthin",
+			"values": ["2.31"]
+		}, {
+			"name": "Video Playback",
+			"field": "attr-__Electronics__VideoPlayback",
+			"values": ["Yes"]
+		}, {
+			"name": "Integrated Speaker",
+			"field": "attr-__Electronics__IntegratedSpeaker",
+			"values": ["Yes"]
+		}, {
+			"name": "FM Tuner",
+			"field": "attr-__Electronics__FMTuner",
+			"values": ["No"]
+		}, {
+			"name": "Tablet Screen Size (in.)",
+			"field": "attr-__Electronics__LNavTabletScreenSize",
+			"values": ["4.0"]
+		}, {
+			"name": "Headphones Included",
+			"field": "attr-__Electronics__HeadphonesIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Product Weight (lb.)",
+			"field": "attr-__Electronics__ProductWeightlb",
+			"values": [".193"]
+		}, {
+			"name": "MFR Included Warranty Type",
+			"field": "attr-__Electronics__ManufacturerWarranty",
+			"values": ["Limited - Does not cover some parts."]
+		}, {
+			"name": "Belt Clip Included",
+			"field": "attr-__Electronics__BeltClipIncluded",
+			"values": ["No"]
+		}, {
+			"name": "Generation",
+			"field": "attr-__Electronics__Generation",
+			"values": ["6th"]
+		}, {
+			"name": "iPod Model Type",
+			"field": "attr-__Electronics__iPodModelType",
+			"values": ["Touch"]
+		}, {
+			"name": "Removable Memory Type",
+			"field": "attr-__Electronics__RemovableMemoryType",
+			"values": ["No"]
+		}, {
+			"name": "Manufacturer Color Name",
+			"field": "attr-__General__ManufacturerColorName",
+			"values": ["Blue"]
+		}, {
+			"name": "Product Depth (in.)",
+			"field": "attr-__Electronics__ProductDepthin",
+			"values": [".24"]
+		}, {
+			"name": "Model #",
+			"field": "attr-__General__Model#",
+			"values": ["MKH62LLA"]
+		}, {
+			"name": "Removable Memory Storage Capacity",
+			"field": "attr-__Electronics__RemovableMemoryStorageCapacity",
+			"values": ["No"]
+		}, {
+			"name": "Integrated Camera",
+			"field": "attr-__Electronics__IntegratedCamera",
+			"values": ["Video"]
+		}, {
+			"name": "MP3 Player Storage Capacity",
+			"field": "attr-__Electronics__MP3PlayerStorageCapacity",
+			"values": ["16GB"]
+		}, {
+			"name": "Product Height (in.)",
+			"field": "attr-__Electronics__ProductHeightin",
+			"values": ["4.86"]
+		}, {
+			"name": "Brand",
+			"field": "attr-__General__Brand",
+			"values": ["Apple"]
+		}, {
+			"name": "Battery Size",
+			"field": "attr-__Electronics__BatterySize",
+			"values": ["Other"]
+		}, {
+			"name": "Batteries Included",
+			"field": "attr-__Electronics__BatteriesIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Tuner Type",
+			"field": "attr-__Electronics__TunerType",
+			"values": ["Other"]
+		}, {
+			"name": "Screen Size (in.)",
+			"field": "attr-__Electronics__ScreenSizein",
+			"values": ["4"]
+		}, {
+			"name": "Display Type",
+			"field": "attr-__Electronics__DisplayType",
+			"values": ["Touch Screen"]
+		}],
+		"price": 259.99,
+		"pricePerMonth": 20.99,
+		"MoreOptionsAvailable": true,
+		"skus": [{
+			"id": "4NCPLUYGO0010",
+			"color": "YGO",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLUYGO0010_Swatch",
+				"description": "Gold",
+				"image": "4NCPLUYGO0010_VB_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKH02LLA",
+			"upc": "00888462349932"
+		}, {
+			"id": "4NCPLUMSL0010",
+			"color": "MSL",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLUMSL0010_Swatch",
+				"description": "Silver",
+				"image": "4NCPLUMSL0010_VB_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKH42LLA",
+			"upc": "00888462350396"
+		}, {
+			"id": "4NCPLUNGR0010",
+			"color": "NGR",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLUNGR0010_Swatch",
+				"description": "Space Gray",
+				"image": "4NCPLUNGR0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKH62LLA",
+			"upc": "00888462350624"
+		}, {
+			"id": "4NCPLURPK0010",
+			"color": "RPK",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLURPK0010_Swatch",
+				"description": "Pink",
+				"image": "4NCPLURPK0010_VB_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKGX2LLA",
+			"upc": "00888462349703"
+		}, {
+			"id": "4NCPLUBLU0010",
+			"color": "BLU",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLUBLU0010_Swatch",
+				"description": "Blue",
+				"image": "4NCPLUBLU0010_VB_999"
+			},
+			"inventoryStatus": "Backorder",
+			"mpn": "MKH22LLA",
+			"upc": "00888462350167"
+		}],
+		"IsDropship": false,
+		"IsTruckship": false,
+		"IsBackorderEligible": true,
+		"IsClearance": false,
+		"siteFirstActive": 1440535578204
+	}, {
+		"score": 2.8636754,
+		"productID": "PW872",
+		"productType": "Product",
+		"name": "Apple iPad mini 16GB WiFi White",
+		"description": "<p>Get everything you love in the iPad in a smaller package! This premium quality Apple iPad mini features a vivid 7.9\" multi-touch display, FaceTime HD and iSight cameras, ultrafast dual-band Wi-Fi, Bluetooth 4.0 wireless technology, and up to 10 hours of battery life. It lets you easily download content, stream video and browse the web at amazing speeds. You also have access to more than 275,00 popular apps at the App Store.</p> <ul><li>7.9\" LED backlit multi-touch display with HD (720p) resolution for sharp, vivid viewing of your favorite games, websites, HD movies and TV shows</li><li>Powered by 2.4GHz Apple A5 dual-core chip for powerful processing and fast graphics</li><li>16GB hard drive stores your favorite songs, digital photos and video</li><li>512MB system memory</li><li>5 megapixel iSight camera with advanced optics and face detection for great shots every time plus Full HD (1080p) video recording</li><li>Comes with rechargeable lithium-polymer battery (up to 10 hours of battery life on a single charge), lightning to USB cable and USB power adapter</li></ul>",
+		"productURL": "/product/PW872.uts",
+		"shipCode": "E",
+		"promotionalCopy": "SAVE $50",
+		"savingsStory": "WAS $389.99",
+		"images": [{
+			"sequence": 1,
+			"url": "4PW8720000010_VA_999.jpg"
+		}, {
+			"sequence": 2,
+			"url": "4PW8720000010_VB_999.jpg"
+		}, {
+			"sequence": 3,
+			"url": "4PW8720000010_VD_999.jpg"
+		}, {
+			"sequence": 4,
+			"url": "4PW8720000010_VC_999.jpg"
+		}],
+		"displayImage": {
+			"sequence": 1,
+			"url": "4PW8720000010_VA_999.jpg"
+		},
+		"categories": [{
+			"name": "Graduation",
+			"categoryID": "5004",
+			"path": "Featured Shops|Gift Finder|Graduation"
+		}, {
+			"name": "College Computers + Tablets",
+			"categoryID": "9332",
+			"path": "Campus Essentials|College Computers + Tablets"
+		}, {
+			"name": "Techie",
+			"categoryID": "5013",
+			"path": "Featured Shops|Gift Finder|Techie"
+		}, {
+			"name": "iPads",
+			"categoryID": "7852",
+			"path": "Electronics|Computers + Tablets|iPads + Tablets|iPads"
+		}, {
+			"name": "Tablets",
+			"categoryID": "7851",
+			"path": "Electronics|Computers + Tablets|iPads + Tablets|Tablets"
+		}],
+		"categoryIDs": [5004, 4993, 10954, 9332, 9331, 7852, 6103, 45, 4, 5013, 7851],
+		"rating": 0,
+		"attributes": [{
+			"name": "Color Family",
+			"field": "attr-__General__LNavColorCategory",
+			"values": ["White"]
+		}, {
+			"name": "Color(s)",
+			"field": "attr-__General__LNav_Colors",
+			"values": ["White"]
+		}, {
+			"name": "Processor Speed",
+			"field": "attr-__Electronics__ProcessorSpeed",
+			"values": ["2.4 ghz"]
+		}, {
+			"name": "System Memory (RAM)",
+			"field": "attr-__Electronics__SystemMemRAM",
+			"values": ["21"]
+		}, {
+			"name": "Adobe Flash Compatible",
+			"field": "attr-__Electronics__AdobeFlashCompatible",
+			"values": ["No"]
+		}, {
+			"name": "Bluetooth-Enabled",
+			"field": "attr-__Electronics__BluetoothEnabled",
+			"values": ["Yes"]
+		}, {
+			"name": "Energy Star Compliant",
+			"field": "attr-__Electronics__EnergyStarCompliant",
+			"values": ["No"]
+		}, {
+			"name": "Screen Size (measured Diagonally In.)",
+			"field": "attr-__Electronics__ScreenSizemeasuredDiagonallyIn",
+			"values": ["7.90"]
+		}, {
+			"name": "HDMI Outputs",
+			"field": "attr-__Electronics__HDMIOutputs",
+			"values": ["26"]
+		}, {
+			"name": "Storage Card Type & Capacity",
+			"field": "attr-__Electronics__StorageCardType&Capacity",
+			"values": ["0"]
+		}, {
+			"name": "Tablet Battery Type",
+			"field": "attr-__Electronics__TabletBatteryType",
+			"values": ["Rechargeable lithium-polymer battery"]
+		}, {
+			"name": "Secure Digital Slot",
+			"field": "attr-__Electronics__SecureDigitalSlot",
+			"values": ["No"]
+		}, {
+			"name": "Touchscreen",
+			"field": "attr-__Electronics__TouchScreen",
+			"values": ["Yes"]
+		}, {
+			"name": "Battery Life (hours)",
+			"field": "attr-__Electronics__BatteryLifehours",
+			"values": ["10"]
+		}, {
+			"name": "Wireless Capability",
+			"field": "attr-__Electronics__WirelessCapability",
+			"values": ["802.11a/b/g/n Wi‑Fi (802.11n 2.4GHz and 5GHz)"]
+		}, {
+			"name": "Product Width (in.)",
+			"field": "attr-__Electronics__ProductWidthin",
+			"values": ["5.3"]
+		}, {
+			"name": "System Memory Type (RAM)",
+			"field": "attr-__Electronics__SystemMemoryTypeRAM",
+			"values": ["RAM"]
+		}, {
+			"name": "Tablet Screen Size (in.)",
+			"field": "attr-__Electronics__LNavTabletScreenSize",
+			"values": ["7.9"]
+		}, {
+			"name": "Operating Platform",
+			"field": "attr-__Electronics__OperatingPlatform",
+			"values": ["Apple iOS"]
+		}, {
+			"name": "Product Weight (lb.)",
+			"field": "attr-__Electronics__ProductWeightlb",
+			"values": [".68"]
+		}, {
+			"name": "USB Ports (#)",
+			"field": "attr-__Electronics__USBPorts",
+			"values": ["0"]
+		}, {
+			"name": "Internal Storage",
+			"field": "attr-__Electronics__TypeOfMemoryRAM",
+			"values": ["16GB"]
+		}, {
+			"name": "Processor Type",
+			"field": "attr-__Electronics__ProcessorType",
+			"values": ["Dual-core A5"]
+		}, {
+			"name": "Digital Camera Pixels (MP)",
+			"field": "attr-__Electronics__DigitalCameraPixelsMP",
+			"values": ["5.0"]
+		}, {
+			"name": "MFR Included Warranty Type",
+			"field": "attr-__Electronics__ManufacturerWarranty",
+			"values": ["1 Year limited parts and labor"]
+		}, {
+			"name": "Front-Facing Webcam",
+			"field": "attr-__Electronics__FrontFacingWebcam",
+			"values": ["Yes"]
+		}, {
+			"name": "Data Plan Required",
+			"field": "attr-__Electronics__DataPlanRequired",
+			"values": ["No"]
+		}, {
+			"name": "Product Depth (in.)",
+			"field": "attr-__Electronics__ProductDepthin",
+			"values": [".28"]
+		}, {
+			"name": "Model #",
+			"field": "attr-__General__Model#",
+			"values": ["MD531LL/A"]
+		}, {
+			"name": "Product Height (in.)",
+			"field": "attr-__Electronics__ProductHeightin",
+			"values": ["7.87"]
+		}, {
+			"name": "Audio",
+			"field": "attr-__Electronics__Audio",
+			"values": ["Yes"]
+		}, {
+			"name": "Brand",
+			"field": "attr-__General__Brand",
+			"values": ["Apple"]
+		}, {
+			"name": "Wi-Fi Enabled",
+			"field": "attr-__Electronics__WiFiEnabled",
+			"values": ["Yes"]
+		}, {
+			"name": "Display Type",
+			"field": "attr-__Electronics__DisplayType",
+			"values": ["LED-backlit Multi‑Touch"]
+		}, {
+			"name": "Firewire Ports",
+			"field": "attr-__Electronics__FirewirePorts",
+			"values": ["0"]
+		}],
+		"price": 339.99,
+		"pricePerMonth": 29.99,
+		"MoreOptionsAvailable": false,
+		"skus": [{
+			"id": "4PW8720000010",
+			"color": "000",
+			"size": "0010",
+			"inventoryStatus": "Available",
+			"mpn": "MD531LL/A"
+		}],
+		"IsDropship": true,
+		"IsTruckship": false,
+		"IsBackorderEligible": true,
+		"IsClearance": false,
+		"siteFirstActive": 1357884000000
+	}, {
+		"score": 2.8619812,
+		"productID": "NCPLV",
+		"productType": "Product",
+		"name": "Apple iPod touch 6th Generation 32GB",
+		"description": "<ul><li>6th&nbsp;generation Apple iPod touch features GPU performance up to 10x faster and CPU performance up to 6x faster than the previous-generation iPod touch</li><li>4\" widescreen Retina touch screen display</li><li>Apple iOS 8 operating system</li><li>Apple A8 chip with M8 motion coprocessor</li><li>Metal technology lets the CPU and GPU work together for detailed graphics and complex vidual effects</li><li>32GB flash memory</li><li>Built-in Wi-Fi and Bluetooth 4.1</li><li>8 megapixel iSight camera plus FaceTime HD camera</li><li>Full HD (1080p) video recording</li><li>Equipped with speaker and headphone jack</li><li>Built-in apps like Messsages, FaceTime and Safari plus access to the App Store</li><li>Includes rechargeable lithium-ion battery (up to 40 hours audio playback on a single charge), Apple EarPods headphones and Lightning to USB cable</li><li>Approx. 2-1/4\"W x 1/4\"D x 5\"H; weighs 3.1 oz.</li></ul>",
+		"productURL": "/product/NCPLV.uts",
+		"shipCode": "E",
+		"swatches": [{
+			"sequence": 10,
+			"name": "4NCPLVBLU0010_Swatch",
+			"description": "Blue",
+			"image": "4NCPLVBLU0010_VA_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLVMSL0010_Swatch",
+			"description": "Silver",
+			"image": "4NCPLVMSL0010_VA_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLVNGR0010_Swatch",
+			"description": "Space Gray",
+			"image": "4NCPLVNGR0010_VA_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLVRPK0010_Swatch",
+			"description": "Pink",
+			"image": "4NCPLVRPK0010_VA_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLVYGO0010_Swatch",
+			"description": "Gold",
+			"image": "4NCPLVYGO0010_VA_999"
+		}],
+		"images": [{
+			"sequence": 1,
+			"url": "4NCPLVBLU0010_VA_999.jpg"
+		}, {
+			"sequence": 1,
+			"url": "4NCPLVMSL0010_VA_999.jpg"
+		}, {
+			"sequence": 1,
+			"url": "4NCPLVNGR0010_VA_999.jpg"
+		}, {
+			"sequence": 1,
+			"url": "4NCPLVRPK0010_VA_999.jpg"
+		}, {
+			"sequence": 1,
+			"url": "4NCPLVYGO0010_VA_999.jpg"
+		}],
+		"displayImage": {
+			"sequence": 1,
+			"url": "4NCPLVBLU0010_VA_999.jpg"
+		},
+		"categories": [{
+			"name": "iPods",
+			"categoryID": "1337",
+			"path": "Electronics|iPod + MP3 Players|iPods"
+		}],
+		"categoryIDs": [1337, 1326, 4],
+		"rating": 0,
+		"attributes": [{
+			"name": "Color Family",
+			"field": "attr-__General__LNavColorCategory",
+			"values": ["Yellow", "Gold", "Pink", "Gray", "Silver", "Blue"]
+		}, {
+			"name": "Color(s)",
+			"field": "attr-__General__LNav_Colors",
+			"values": ["Yellow", "Gold", "Pink", "Gray", "Silver", "Blue"]
+		}, {
+			"name": "Built-In Speaker",
+			"field": "attr-__Electronics__BuiltInSpeaker",
+			"values": ["Yes"]
+		}, {
+			"name": "Lithium Hazard Warning",
+			"field": "attr-__General__LithiumHazardWarning",
+			"values": ["Lithium Ion Packed With or Contained In"]
+		}, {
+			"name": "USB Port",
+			"field": "attr-__Electronics__USBPort",
+			"values": ["No"]
+		}, {
+			"name": "Additional Accessories Included",
+			"field": "attr-__Electronics__AdditionalAccessoriesIncluded",
+			"values": ["Apple Earpods®, lightning to USB cable, quick start guide"]
+		}, {
+			"name": "iPod Storage Capacity",
+			"field": "attr-__Electronics__iPodStorageCapacity",
+			"values": ["32GB"]
+		}, {
+			"name": "Cable(s) Included",
+			"field": "attr-__Electronics__CableIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Computer Compatibility",
+			"field": "attr-__Electronics__ComputerCompatibility",
+			"values": ["PC and Mac"]
+		}, {
+			"name": "Supported File Formats",
+			"field": "attr-__Electronics__SupportedFileFormats",
+			"values": ["AAC"]
+		}, {
+			"name": "Inputs",
+			"field": "attr-__Electronics__Inputs",
+			"values": ["3.5mm jack"]
+		}, {
+			"name": "Touchscreen",
+			"field": "attr-__Electronics__TouchScreen",
+			"values": ["Yes"]
+		}, {
+			"name": "Storage Type",
+			"field": "attr-__Electronics__StorageType",
+			"values": ["Flash Memory"]
+		}, {
+			"name": "Software Included",
+			"field": "attr-__Electronics__SoftwareIncluded",
+			"values": ["No"]
+		}, {
+			"name": "Battery Quantity",
+			"field": "attr-__Electronics__BatteryQuantity",
+			"values": ["1"]
+		}, {
+			"name": "Product Width (in.)",
+			"field": "attr-__Electronics__ProductWidthin",
+			"values": ["2.31"]
+		}, {
+			"name": "Video Playback",
+			"field": "attr-__Electronics__VideoPlayback",
+			"values": ["Yes"]
+		}, {
+			"name": "Integrated Speaker",
+			"field": "attr-__Electronics__IntegratedSpeaker",
+			"values": ["Yes"]
+		}, {
+			"name": "FM Tuner",
+			"field": "attr-__Electronics__FMTuner",
+			"values": ["No"]
+		}, {
+			"name": "Tablet Screen Size (in.)",
+			"field": "attr-__Electronics__LNavTabletScreenSize",
+			"values": ["4.0"]
+		}, {
+			"name": "Headphones Included",
+			"field": "attr-__Electronics__HeadphonesIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Product Weight (lb.)",
+			"field": "attr-__Electronics__ProductWeightlb",
+			"values": [".193"]
+		}, {
+			"name": "MFR Included Warranty Type",
+			"field": "attr-__Electronics__ManufacturerWarranty",
+			"values": ["Limited - Does not cover some parts."]
+		}, {
+			"name": "Belt Clip Included",
+			"field": "attr-__Electronics__BeltClipIncluded",
+			"values": ["No"]
+		}, {
+			"name": "Generation",
+			"field": "attr-__Electronics__Generation",
+			"values": ["6th"]
+		}, {
+			"name": "iPod Model Type",
+			"field": "attr-__Electronics__iPodModelType",
+			"values": ["Touch"]
+		}, {
+			"name": "Removable Memory Type",
+			"field": "attr-__Electronics__RemovableMemoryType",
+			"values": ["No"]
+		}, {
+			"name": "Manufacturer Color Name",
+			"field": "attr-__General__ManufacturerColorName",
+			"values": ["Blue"]
+		}, {
+			"name": "Product Depth (in.)",
+			"field": "attr-__Electronics__ProductDepthin",
+			"values": [".24"]
+		}, {
+			"name": "Model #",
+			"field": "attr-__General__Model#",
+			"values": ["MKJ02LLA"]
+		}, {
+			"name": "Removable Memory Storage Capacity",
+			"field": "attr-__Electronics__RemovableMemoryStorageCapacity",
+			"values": ["No"]
+		}, {
+			"name": "Integrated Camera",
+			"field": "attr-__Electronics__IntegratedCamera",
+			"values": ["Video"]
+		}, {
+			"name": "MP3 Player Storage Capacity",
+			"field": "attr-__Electronics__MP3PlayerStorageCapacity",
+			"values": ["32GB"]
+		}, {
+			"name": "Product Height (in.)",
+			"field": "attr-__Electronics__ProductHeightin",
+			"values": ["4.86"]
+		}, {
+			"name": "Brand",
+			"field": "attr-__General__Brand",
+			"values": ["Apple"]
+		}, {
+			"name": "Battery Size",
+			"field": "attr-__Electronics__BatterySize",
+			"values": ["Other"]
+		}, {
+			"name": "Batteries Included",
+			"field": "attr-__Electronics__BatteriesIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Tuner Type",
+			"field": "attr-__Electronics__TunerType",
+			"values": ["Other"]
+		}, {
+			"name": "Screen Size (in.)",
+			"field": "attr-__Electronics__ScreenSizein",
+			"values": ["4"]
+		}, {
+			"name": "Display Type",
+			"field": "attr-__Electronics__DisplayType",
+			"values": ["Touch Screen"]
+		}],
+		"price": 324.99,
+		"pricePerMonth": 23.99,
+		"MoreOptionsAvailable": true,
+		"skus": [{
+			"id": "4NCPLVYGO0010",
+			"color": "YGO",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLVYGO0010_Swatch",
+				"description": "Gold",
+				"image": "4NCPLVYGO0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKHT2LLA",
+			"upc": "00888462352468"
+		}, {
+			"id": "4NCPLVNGR0010",
+			"color": "NGR",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLVNGR0010_Swatch",
+				"description": "Space Gray",
+				"image": "4NCPLVNGR0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKJ02LLA",
+			"upc": "00888462353151"
+		}, {
+			"id": "4NCPLVMSL0010",
+			"color": "MSL",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLVMSL0010_Swatch",
+				"description": "Silver",
+				"image": "4NCPLVMSL0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKHX2LLA",
+			"upc": "00888462352925"
+		}, {
+			"id": "4NCPLVBLU0010",
+			"color": "BLU",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLVBLU0010_Swatch",
+				"description": "Blue",
+				"image": "4NCPLVBLU0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKHV2LLA",
+			"upc": "00888462352697"
+		}, {
+			"id": "4NCPLVRPK0010",
+			"color": "RPK",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLVRPK0010_Swatch",
+				"description": "Pink",
+				"image": "4NCPLVRPK0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKHQ2LLA",
+			"upc": "00888462352239"
+		}],
+		"IsDropship": false,
+		"IsTruckship": false,
+		"IsBackorderEligible": true,
+		"IsClearance": false,
+		"siteFirstActive": 1440535578212
+	}, {
+		"score": 2.8617449,
+		"productID": "PW870",
+		"productType": "Product",
+		"name": "Apple iPad mini 16GB WiFi Black",
+		"description": "<p>Get everything you love in the iPad in a smaller package! This premium quality Apple iPad mini features a vivid 7.9\" multi-touch display, FaceTime HD and iSight cameras, ultrafast dual-band Wi-Fi, Bluetooth 4.0 wireless technology, and up to 10 hours of battery life. It lets you easily download content, stream video and browse the web at amazing speeds. You also have access to more than 275,00 popular apps at the App Store.</p> <ul><li>7.9\" LED backlit multi-touch display with HD (720p) resolution for sharp, vivid viewing of your favorite games, websites, HD movies and TV shows</li><li>Powered by 2.4GHz Apple A5 dual-core chip for powerful processing and fast graphics</li><li>16GB hard drive stores your favorite songs, digital photos and video</li><li>512MB system memory</li><li>5 megapixel iSight camera with advanced optics and face detection for great shots every time plus Full HD (1080p) video recording</li><li>Comes with rechargeable lithium-polymer battery (up to 10 hours of battery life on a single charge), lightning to USB cable and USB power adapter</li></ul>",
+		"productURL": "/product/PW870.uts",
+		"shipCode": "E",
+		"promotionalCopy": "SAVE $50",
+		"savingsStory": "WAS $389.99",
+		"images": [{
+			"sequence": 1,
+			"url": "4PW8700000010_VA_999.jpg"
+		}, {
+			"sequence": 2,
+			"url": "4PW8700000010_VB_999.jpg"
+		}],
+		"displayImage": {
+			"sequence": 1,
+			"url": "4PW8700000010_VA_999.jpg"
+		},
+		"categories": [{
+			"name": "Techie Gifts",
+			"categoryID": "8378",
+			"path": "Featured Shops|Gift Finder|Him|Techie Gifts"
+		}, {
+			"name": "Graduation",
+			"categoryID": "5004",
+			"path": "Featured Shops|Gift Finder|Graduation"
+		}, {
+			"name": "College Computers + Tablets",
+			"categoryID": "9332",
+			"path": "Campus Essentials|College Computers + Tablets"
+		}, {
+			"name": "Techie",
+			"categoryID": "5013",
+			"path": "Featured Shops|Gift Finder|Techie"
+		}, {
+			"name": "iPads",
+			"categoryID": "7852",
+			"path": "Electronics|Computers + Tablets|iPads + Tablets|iPads"
+		}, {
+			"name": "Tablets",
+			"categoryID": "7851",
+			"path": "Electronics|Computers + Tablets|iPads + Tablets|Tablets"
+		}],
+		"categoryIDs": [5004, 4993, 10954, 8378, 4994, 9332, 9331, 7852, 6103, 45, 4, 5013, 7851],
+		"rating": 0,
+		"attributes": [{
+			"name": "Color Family",
+			"field": "attr-__General__LNavColorCategory",
+			"values": ["Black"]
+		}, {
+			"name": "Color(s)",
+			"field": "attr-__General__LNav_Colors",
+			"values": ["Black"]
+		}, {
+			"name": "Processor Speed",
+			"field": "attr-__Electronics__ProcessorSpeed",
+			"values": ["Up to 2.4 GHz"]
+		}, {
+			"name": "System Memory (RAM)",
+			"field": "attr-__Electronics__SystemMemRAM",
+			"values": ["21"]
+		}, {
+			"name": "Adobe Flash Compatible",
+			"field": "attr-__Electronics__AdobeFlashCompatible",
+			"values": ["No"]
+		}, {
+			"name": "Bluetooth-Enabled",
+			"field": "attr-__Electronics__BluetoothEnabled",
+			"values": ["Yes"]
+		}, {
+			"name": "Energy Star Compliant",
+			"field": "attr-__Electronics__EnergyStarCompliant",
+			"values": ["No"]
+		}, {
+			"name": "Screen Size (measured Diagonally In.)",
+			"field": "attr-__Electronics__ScreenSizemeasuredDiagonallyIn",
+			"values": ["7.90"]
+		}, {
+			"name": "HDMI Outputs",
+			"field": "attr-__Electronics__HDMIOutputs",
+			"values": ["26"]
+		}, {
+			"name": "Storage Card Type & Capacity",
+			"field": "attr-__Electronics__StorageCardType&Capacity",
+			"values": ["No"]
+		}, {
+			"name": "Tablet Battery Type",
+			"field": "attr-__Electronics__TabletBatteryType",
+			"values": ["Rechargeable lithium-polymer battery"]
+		}, {
+			"name": "Secure Digital Slot",
+			"field": "attr-__Electronics__SecureDigitalSlot",
+			"values": ["No"]
+		}, {
+			"name": "Touchscreen",
+			"field": "attr-__Electronics__TouchScreen",
+			"values": ["Yes"]
+		}, {
+			"name": "Battery Life (hours)",
+			"field": "attr-__Electronics__BatteryLifehours",
+			"values": ["10"]
+		}, {
+			"name": "Wireless Capability",
+			"field": "attr-__Electronics__WirelessCapability",
+			"values": ["802.11a/b/g/n Wi‑Fi (802.11n 2.4GHz and 5GHz)"]
+		}, {
+			"name": "Product Width (in.)",
+			"field": "attr-__Electronics__ProductWidthin",
+			"values": ["5.3"]
+		}, {
+			"name": "System Memory Type (RAM)",
+			"field": "attr-__Electronics__SystemMemoryTypeRAM",
+			"values": ["RAM"]
+		}, {
+			"name": "Tablet Screen Size (in.)",
+			"field": "attr-__Electronics__LNavTabletScreenSize",
+			"values": ["7.9"]
+		}, {
+			"name": "Operating Platform",
+			"field": "attr-__Electronics__OperatingPlatform",
+			"values": ["Apple iOS"]
+		}, {
+			"name": "Product Weight (lb.)",
+			"field": "attr-__Electronics__ProductWeightlb",
+			"values": [".68"]
+		}, {
+			"name": "USB Ports (#)",
+			"field": "attr-__Electronics__USBPorts",
+			"values": ["0"]
+		}, {
+			"name": "Internal Storage",
+			"field": "attr-__Electronics__TypeOfMemoryRAM",
+			"values": ["16GB"]
+		}, {
+			"name": "Processor Type",
+			"field": "attr-__Electronics__ProcessorType",
+			"values": ["Dual-core A5"]
+		}, {
+			"name": "Digital Camera Pixels (MP)",
+			"field": "attr-__Electronics__DigitalCameraPixelsMP",
+			"values": ["5.0"]
+		}, {
+			"name": "MFR Included Warranty Type",
+			"field": "attr-__Electronics__ManufacturerWarranty",
+			"values": ["1 year limited parts and labor"]
+		}, {
+			"name": "Front-Facing Webcam",
+			"field": "attr-__Electronics__FrontFacingWebcam",
+			"values": ["Yes"]
+		}, {
+			"name": "Data Plan Required",
+			"field": "attr-__Electronics__DataPlanRequired",
+			"values": ["No"]
+		}, {
+			"name": "Product Depth (in.)",
+			"field": "attr-__Electronics__ProductDepthin",
+			"values": [".28"]
+		}, {
+			"name": "Model #",
+			"field": "attr-__General__Model#",
+			"values": ["MF432LL/A"]
+		}, {
+			"name": "Product Height (in.)",
+			"field": "attr-__Electronics__ProductHeightin",
+			"values": ["7.87"]
+		}, {
+			"name": "Audio",
+			"field": "attr-__Electronics__Audio",
+			"values": ["Yes"]
+		}, {
+			"name": "Brand",
+			"field": "attr-__General__Brand",
+			"values": ["Apple"]
+		}, {
+			"name": "Wi-Fi Enabled",
+			"field": "attr-__Electronics__WiFiEnabled",
+			"values": ["Yes"]
+		}, {
+			"name": "Display Type",
+			"field": "attr-__Electronics__DisplayType",
+			"values": ["LED-backlit Multi‑Touch"]
+		}, {
+			"name": "Firewire Ports",
+			"field": "attr-__Electronics__FirewirePorts",
+			"values": ["0"]
+		}],
+		"price": 339.99,
+		"pricePerMonth": 29.99,
+		"MoreOptionsAvailable": false,
+		"skus": [{
+			"id": "4PW8700000010",
+			"color": "000",
+			"size": "0010",
+			"inventoryStatus": "Available",
+			"mpn": "MF432LL/A",
+			"upc": "00885909846290"
+		}],
+		"IsDropship": true,
+		"IsTruckship": false,
+		"IsBackorderEligible": true,
+		"IsClearance": false,
+		"siteFirstActive": 1357884000000
+	}, {
+		"score": 2.8580356,
+		"productID": "ST821",
+		"productType": "Product",
+		"name": "Apple iPhone 6 16GB Unlocked Smartphone",
+		"description": "<p><strong>Unlocked cell phones are compatible with GSM networks like AT&amp;T and T-Mobile in the U.S. or any GSM network around the world. Phone will not work with Sprint, Verizon, Boost Mobile, Virgin Wireless or any other CDMA network.</strong></p> <p><strong>&nbsp;</strong></p> <p><strong>If you are purchasing this device for use on a GSM network like T-Mobile or AT&amp;T, please contact your carrier prior to purchasing to confirm your carrier will support voice and data on this unlocked GSM device</strong><strong>.</strong></p> <p><strong>&nbsp;</strong></p> <p><em>Please read and fully understand this unlocked device prior to purchase.</em></p> <p>&nbsp;</p> <p><strong>Apple iPhone 6 Unlocked Smartphone<br /></strong>Thin iPhone 6 with large Retina HD touch screen lets you talk, text, surf the web and stay connected to emails and your favorite social network sites. Built-in 3x faster Wi-Fi lets you connect to the internet without using your data plan. Includes built-in Bluetooth LE, AirPlay Mirroring, MP3 playback, speakerphone, customizable ring tones and voice mail.</p> <ul><li>4.7\" Retina capacitive multi-touch screen with HD (720p) resolution</li><li>Powered by Apple iOS 8 operating system and A8 chipset</li><li>16GB internal memory</li><li>8MP iSight camera with phase detection auto focus, exposure control and True Tone flash plus FaceTime HD camera</li></ul> <p>&nbsp;</p> <p><strong>Model#:</strong>&nbsp;Apple iPhone 6<br /><strong>GSM bands:</strong>&nbsp;850/900/1800/1900<br /><strong>HSDPA bands:</strong>&nbsp;850/900/1700/1900/2100<br /><strong>LTE bands:</strong>&nbsp;700/800/850/900/1800/1900/2100/2600<br /><strong><br /></strong></p> <p><em>Your carrier will need the info above to confirm if the phone is supported on its network.</em></p> <p><em>&nbsp;</em></p> <p><strong>RETURNS ARE LIMITED FOR MOBILE DEVICES</strong><br />Once shipped, only defective and damaged devices can be exchanged for an identical device on phones. Defective and damaged exchanges must be within 30 days of purchase.</p> <p>&nbsp;</p> <p><strong>NOTE:</strong>&nbsp;Unlocked phones may arrive unsealed and the phone may appear previously handled. The unlocking procedure may have required a technician to unseal the box and manually handle the cell phone to restore it to default settings &ndash; the cell phone should not be considered &ldquo;tampered with&rdquo; or &ldquo;defective.&rdquo; All warranties offered by us or our partners are still valid.</p>",
+		"productURL": "/product/ST821.uts",
+		"shipCode": "E",
+		"swatches": [{
+			"sequence": 10,
+			"name": "4ST821MSL0010_Swatch",
+			"description": "Silver",
+			"image": "4ST821MSL0010_VC_999"
+		}, {
+			"sequence": 10,
+			"name": "4ST821NGR0010_Swatch",
+			"description": "Gray",
+			"image": "4ST821NGR0010_VC_999"
+		}],
+		"images": [{
+			"sequence": 1,
+			"url": "4ST821YGO0010_VA_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4ST821MSL0010_VB_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4ST821MSL0010_VC_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4ST821NGR0010_VB_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4ST821NGR0010_VC_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4ST821YGO0010_VB_999.jpg"
+		}],
+		"displayImage": {
+			"sequence": 1,
+			"url": "4ST821YGO0010_VA_999.jpg"
+		},
+		"categories": [{
+			"name": "Unlocked Phones",
+			"categoryID": "7727",
+			"path": "Electronics|Cell Phones|Unlocked Phones"
+		}],
+		"categoryIDs": [7727, 703, 4],
+		"rating": 0,
+		"attributes": [{
+			"name": "Color Family",
+			"field": "attr-__General__LNavColorCategory",
+			"values": ["Gold", "Silver", "Gray", "Yellow"]
+		}, {
+			"name": "Color(s)",
+			"field": "attr-__General__LNav_Colors",
+			"values": ["Yellow", "Gold", "Silver", "Gray"]
+		}, {
+			"name": "RAM",
+			"field": "attr-__Electronics__RAM",
+			"values": ["1 GB RAM"]
+		}, {
+			"name": "Downloadable Games",
+			"field": "attr-__Electronics__DownloadableGames",
+			"values": ["Yes"]
+		}, {
+			"name": "Ringtones",
+			"field": "attr-__Electronics__RingTones",
+			"values": ["25"]
+		}, {
+			"name": "Rear Facing Camera",
+			"field": "attr-__Electronics__RearFacingCamera",
+			"values": ["Yes"]
+		}, {
+			"name": "NFC",
+			"field": "attr-__Electronics__NFC",
+			"values": ["Yes"]
+		}, {
+			"name": "MP3 Playback Capability",
+			"field": "attr-__Electronics__MP3PlaybackCapability",
+			"values": ["Yes"]
+		}, {
+			"name": "Bluetooth-Enabled",
+			"field": "attr-__Electronics__BluetoothEnabled",
+			"values": ["Yes"]
+		}, {
+			"name": "Phone Memory",
+			"field": "attr-__Electronics__PhoneMemory",
+			"values": ["16GB"]
+		}, {
+			"name": "Expandable Memory",
+			"field": "attr-__Electronics__ExpandableMemory",
+			"values": ["N/A"]
+		}, {
+			"name": "Resolution",
+			"field": "attr-__Electronics__Resolution",
+			"values": ["750 x 1334 "]
+		}, {
+			"name": "Touchscreen",
+			"field": "attr-__Electronics__TouchScreen",
+			"values": ["Yes"]
+		}, {
+			"name": "Storage Capacity",
+			"field": "attr-__Electronics__StorageCapacity",
+			"values": ["16 GB, 1 GB RAM"]
+		}, {
+			"name": "QWERTY Keyboard",
+			"field": "attr-__Electronics__QWERTYKeyboard",
+			"values": ["No"]
+		}, {
+			"name": "Cell Phone Type",
+			"field": "attr-__Electronics__CellPhoneType",
+			"values": ["Unlocked"]
+		}, {
+			"name": "Memory (GB)",
+			"field": "attr-__Electronics__MemoryGB",
+			"values": ["16 GB, 1 GB RAM"]
+		}, {
+			"name": "GPS",
+			"field": "attr-__Electronics__GPS",
+			"values": ["Yes"]
+		}, {
+			"name": "Front Facing Camera",
+			"field": "attr-__Electronics__FrontFacingCamera",
+			"values": ["Yes"]
+		}, {
+			"name": "Built-In Digital Camera",
+			"field": "attr-__Electronics__BuiltInDigitalCamera",
+			"values": ["Yes"]
+		}, {
+			"name": "Smart Phone",
+			"field": "attr-__Electronics__Smartphone",
+			"values": ["Yes"]
+		}, {
+			"name": "Caller ID/Call Waiting",
+			"field": "attr-__Electronics__CallerIDCallWaiting",
+			"values": ["Yes"]
+		}, {
+			"name": "Vibrate Mode",
+			"field": "attr-__Electronics__VibrateMode",
+			"values": ["Yes"]
+		}, {
+			"name": "Refurbished",
+			"field": "attr-__Electronics__Refurbished",
+			"values": ["No"]
+		}, {
+			"name": "LTE",
+			"field": "attr-__Electronics__LTE",
+			"values": ["Yes"]
+		}, {
+			"name": "Battery Type",
+			"field": "attr-__Electronics__BatteryType",
+			"values": ["Lithium Ion"]
+		}, {
+			"name": "Text Messaging/Instant Messaging",
+			"field": "attr-__Electronics__TextMessagingInstantMessaging",
+			"values": ["Yes"]
+		}, {
+			"name": "Customizable Ringtones",
+			"field": "attr-__Electronics__CustomizableRingtones",
+			"values": ["Yes"]
+		}, {
+			"name": "Phone Style",
+			"field": "attr-__Electronics__PhoneStyle",
+			"values": ["Touch Screen"]
+		}, {
+			"name": "Cellular Operating System",
+			"field": "attr-__Electronics__CellularOperatingSystem",
+			"values": ["iOS"]
+		}, {
+			"name": "Voice Mail",
+			"field": "attr-__Electronics__VoiceMail",
+			"values": ["Yes"]
+		}, {
+			"name": "Memory Type",
+			"field": "attr-__Electronics__MemoryType",
+			"values": ["Internal"]
+		}, {
+			"name": "Speakerphone",
+			"field": "attr-__Electronics__Speakerphone",
+			"values": ["Yes"]
+		}, {
+			"name": "Manufacturer Color Name",
+			"field": "attr-__General__ManufacturerColorName",
+			"values": ["Gray, Silver & Gold"]
+		}, {
+			"name": "Model #",
+			"field": "attr-__General__Model#",
+			"values": ["A1549 16GB"]
+		}, {
+			"name": "Service Provider",
+			"field": "attr-__Electronics__ServiceProvider",
+			"values": ["Unlocked"]
+		}, {
+			"name": "Downloadable Ringtones",
+			"field": "attr-__Electronics__DownloadableRingtones",
+			"values": ["Yes"]
+		}, {
+			"name": "Processor",
+			"field": "attr-__Electronics__Processor",
+			"values": ["Dual-core 1.4 GHz Cyclone (ARM v8-based)"]
+		}, {
+			"name": "Unlocked",
+			"field": "attr-__Electronics__Unlocked",
+			"values": ["Yes"]
+		}, {
+			"name": "Brand",
+			"field": "attr-__General__Brand",
+			"values": ["Apple"]
+		}, {
+			"name": "Internet/E-Mail Capable",
+			"field": "attr-__Electronics__InternetEMailCapable",
+			"values": ["Yes"]
+		}, {
+			"name": "Color Display",
+			"field": "attr-__Electronics__ColorDisplay",
+			"values": ["Yes"]
+		}, {
+			"name": "MMS",
+			"field": "attr-__Electronics__MMS",
+			"values": ["Yes"]
+		}, {
+			"name": "Speed Dialing",
+			"field": "attr-__Electronics__SpeedDialing",
+			"values": ["Yes"]
+		}],
+		"price": 1219.99,
+		"pricePerMonth": 69.99,
+		"MoreOptionsAvailable": true,
+		"skus": [{
+			"id": "4ST821MSL0010",
+			"color": "MSL",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4ST821MSL0010_Swatch",
+				"description": "Silver",
+				"image": "4ST821MSL0010_VC_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "A1549 16GB SILVER",
+			"upc": "00715660702828"
+		}, {
+			"id": "4ST821NGR0010",
+			"color": "NGR",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4ST821NGR0010_Swatch",
+				"description": "Gray",
+				"image": "4ST821NGR0010_VC_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "A1549 16GB GRAY",
+			"upc": "00715660702811"
+		}],
+		"IsDropship": true,
+		"IsTruckship": false,
+		"IsBackorderEligible": true,
+		"IsClearance": false,
+		"siteFirstActive": 1413262800000
+	}, {
+		"score": 2.857383,
+		"productID": "NCPLW",
+		"productType": "Product",
+		"name": "Apple 2GB iPod shuffle 4th Generation",
+		"description": "<ul><li>4<sup>th </sup>generation Apple iPod shuffle provides plenty of room for the essential songs of your workout or commute</li><li>Clickable control pad on the front makes it easy to see and use the music controls</li><li>Press the Voice Over button and the iPod shuffle speaks the song title, playlist or artist name, or battery status in one of 29 languages</li><li>2GB flash memory</li><li>Headphone jack</li><li>Includes rechargeable lithium-ion battery (up to 15 hours of battery life on a single charge), Appple earphones and USB cable</li><li>Approx. 1-1/4\"W x 1/4\"D x 1-1/4\"H; weighs .44 lb.</li></ul>",
+		"productURL": "/product/NCPLW.uts",
+		"shipCode": "E",
+		"swatches": [{
+			"sequence": 10,
+			"name": "4NCPLWBLU0010_Swatch",
+			"description": "blue",
+			"image": "4NCPLWBLU0010_VB_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLWMSL0010_Swatch",
+			"description": "silver",
+			"image": "4NCPLWMSL0010_VB_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLWNGR0010_Swatch",
+			"description": "space gray",
+			"image": "4NCPLWNGR0010_VB_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLWRPK0010_Swatch",
+			"description": "pink",
+			"image": "4NCPLWRPK0010_VB_999"
+		}, {
+			"sequence": 10,
+			"name": "4NCPLWYGO0010_Swatch",
+			"description": "gold",
+			"image": "4NCPLWYGO0010_VA_999"
+		}],
+		"images": [{
+			"sequence": 1,
+			"url": "4NCPLWYGO0010_VA_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4NCPLWBLU0010_VB_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4NCPLWMSL0010_VB_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4NCPLWNGR0010_VB_999.jpg"
+		}, {
+			"sequence": 5,
+			"url": "4NCPLWRPK0010_VB_999.jpg"
+		}],
+		"displayImage": {
+			"sequence": 1,
+			"url": "4NCPLWYGO0010_VA_999.jpg"
+		},
+		"categories": [{
+			"name": "iPods",
+			"categoryID": "1337",
+			"path": "Electronics|iPod + MP3 Players|iPods"
+		}],
+		"categoryIDs": [1337, 1326, 4],
+		"rating": 0,
+		"attributes": [{
+			"name": "Color Family",
+			"field": "attr-__General__LNavColorCategory",
+			"values": ["Silver", "Blue", "Pink", "Yellow", "Gold", "Gray"]
+		}, {
+			"name": "Color(s)",
+			"field": "attr-__General__LNav_Colors",
+			"values": ["Silver", "Blue", "Pink", "Yellow", "Gold", "Gray"]
+		}, {
+			"name": "Built-In Speaker",
+			"field": "attr-__Electronics__BuiltInSpeaker",
+			"values": ["No"]
+		}, {
+			"name": "Lithium Hazard Warning",
+			"field": "attr-__General__LithiumHazardWarning",
+			"values": ["Lithium Ion Packed With or Contained In"]
+		}, {
+			"name": "USB Port",
+			"field": "attr-__Electronics__USBPort",
+			"values": ["No"]
+		}, {
+			"name": "Additional Accessories Included",
+			"field": "attr-__Electronics__AdditionalAccessoriesIncluded",
+			"values": ["Apple Earpods®, lightning to USB cable, quick start guide"]
+		}, {
+			"name": "iPod Storage Capacity",
+			"field": "attr-__Electronics__iPodStorageCapacity",
+			"values": ["2GB"]
+		}, {
+			"name": "Cable(s) Included",
+			"field": "attr-__Electronics__CableIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Computer Compatibility",
+			"field": "attr-__Electronics__ComputerCompatibility",
+			"values": ["PC and Mac"]
+		}, {
+			"name": "Supported File Formats",
+			"field": "attr-__Electronics__SupportedFileFormats",
+			"values": ["AAC"]
+		}, {
+			"name": "Inputs",
+			"field": "attr-__Electronics__Inputs",
+			"values": ["3.5mm jack"]
+		}, {
+			"name": "Touchscreen",
+			"field": "attr-__Electronics__TouchScreen",
+			"values": ["No"]
+		}, {
+			"name": "Storage Type",
+			"field": "attr-__Electronics__StorageType",
+			"values": ["Flash Memory"]
+		}, {
+			"name": "Software Included",
+			"field": "attr-__Electronics__SoftwareIncluded",
+			"values": ["No"]
+		}, {
+			"name": "Battery Quantity",
+			"field": "attr-__Electronics__BatteryQuantity",
+			"values": ["1"]
+		}, {
+			"name": "Product Width (in.)",
+			"field": "attr-__Electronics__ProductWidthin",
+			"values": ["1.24"]
+		}, {
+			"name": "Video Playback",
+			"field": "attr-__Electronics__VideoPlayback",
+			"values": ["No"]
+		}, {
+			"name": "Integrated Speaker",
+			"field": "attr-__Electronics__IntegratedSpeaker",
+			"values": ["No"]
+		}, {
+			"name": "FM Tuner",
+			"field": "attr-__Electronics__FMTuner",
+			"values": ["No"]
+		}, {
+			"name": "Tablet Screen Size (in.)",
+			"field": "attr-__Electronics__LNavTabletScreenSize",
+			"values": ["0.0"]
+		}, {
+			"name": "Headphones Included",
+			"field": "attr-__Electronics__HeadphonesIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Product Weight (lb.)",
+			"field": "attr-__Electronics__ProductWeightlb",
+			"values": [".44"]
+		}, {
+			"name": "MFR Included Warranty Type",
+			"field": "attr-__Electronics__ManufacturerWarranty",
+			"values": ["Limited - Does not cover some parts."]
+		}, {
+			"name": "Belt Clip Included",
+			"field": "attr-__Electronics__BeltClipIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Generation",
+			"field": "attr-__Electronics__Generation",
+			"values": ["4th"]
+		}, {
+			"name": "iPod Model Type",
+			"field": "attr-__Electronics__iPodModelType",
+			"values": ["Shuffle"]
+		}, {
+			"name": "Removable Memory Type",
+			"field": "attr-__Electronics__RemovableMemoryType",
+			"values": ["none"]
+		}, {
+			"name": "Manufacturer Color Name",
+			"field": "attr-__General__ManufacturerColorName",
+			"values": ["Blue"]
+		}, {
+			"name": "Product Depth (in.)",
+			"field": "attr-__Electronics__ProductDepthin",
+			"values": [".34"]
+		}, {
+			"name": "Model #",
+			"field": "attr-__General__Model#",
+			"values": ["MKMJ2LLA"]
+		}, {
+			"name": "Removable Memory Storage Capacity",
+			"field": "attr-__Electronics__RemovableMemoryStorageCapacity",
+			"values": ["none"]
+		}, {
+			"name": "Integrated Camera",
+			"field": "attr-__Electronics__IntegratedCamera",
+			"values": ["None"]
+		}, {
+			"name": "MP3 Player Storage Capacity",
+			"field": "attr-__Electronics__MP3PlayerStorageCapacity",
+			"values": ["2GB"]
+		}, {
+			"name": "Product Height (in.)",
+			"field": "attr-__Electronics__ProductHeightin",
+			"values": ["1.14"]
+		}, {
+			"name": "Brand",
+			"field": "attr-__General__Brand",
+			"values": ["Apple"]
+		}, {
+			"name": "Battery Size",
+			"field": "attr-__Electronics__BatterySize",
+			"values": ["Other"]
+		}, {
+			"name": "Batteries Included",
+			"field": "attr-__Electronics__BatteriesIncluded",
+			"values": ["Yes"]
+		}, {
+			"name": "Tuner Type",
+			"field": "attr-__Electronics__TunerType",
+			"values": ["None"]
+		}, {
+			"name": "Screen Size (in.)",
+			"field": "attr-__Electronics__ScreenSizein",
+			"values": ["n/a"]
+		}, {
+			"name": "Display Type",
+			"field": "attr-__Electronics__DisplayType",
+			"values": ["NONE"]
+		}],
+		"price": 64.99,
+		"pricePerMonth": 8.99,
+		"MoreOptionsAvailable": true,
+		"skus": [{
+			"id": "4NCPLWMSL0010",
+			"color": "MSL",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLWMSL0010_Swatch",
+				"description": "silver",
+				"image": "4NCPLWMSL0010_VB_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKMG2LLA",
+			"upc": "00888462475105"
+		}, {
+			"id": "4NCPLWBLU0010",
+			"color": "BLU",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLWBLU0010_Swatch",
+				"description": "blue",
+				"image": "4NCPLWBLU0010_VB_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKME2LLA",
+			"upc": "00888462474627"
+		}, {
+			"id": "4NCPLWRPK0010",
+			"color": "RPK",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLWRPK0010_Swatch",
+				"description": "pink",
+				"image": "4NCPLWRPK0010_VB_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKM72LLA",
+			"upc": "00888462473682"
+		}, {
+			"id": "4NCPLWYGO0010",
+			"color": "YGO",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLWYGO0010_Swatch",
+				"description": "gold",
+				"image": "4NCPLWYGO0010_VA_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKM92LLA",
+			"upc": "00888462474153"
+		}, {
+			"id": "4NCPLWNGR0010",
+			"color": "NGR",
+			"size": "0010",
+			"swatch": {
+				"sequence": 10,
+				"name": "4NCPLWNGR0010_Swatch",
+				"description": "space gray",
+				"image": "4NCPLWNGR0010_VB_999"
+			},
+			"inventoryStatus": "Available",
+			"mpn": "MKMJ2LLA",
+			"upc": "00888462475570"
+		}],
+		"IsDropship": false,
+		"IsTruckship": false,
+		"IsBackorderEligible": true,
+		"IsClearance": false,
+		"siteFirstActive": 1440535578121
+	}]
+}
